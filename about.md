@@ -13,7 +13,7 @@ Or here: See also: <a href="https://scholar.google.de/citations?user=FUN_nHMAAAA
 
 Or here: <a href="https://www.researchgate.net/profile/Dirk_Wulff">Researchgate</a>
 
-Currently, I am excited about our attempt to measure the shared mental lexicon of seeveral languages including German. To participate choose your language: <a href="www.smallworldofwords.org/en">"English"</a>, <a href="www.smallworldofwords.org/de">"Deutsch"</a>, <a href="www.smallworldofwords.org/pt">"Português"</a>, <a href="www.smallworldofwords.org/ru">"русский"</a>, <a href="www.smallworldofwords.org/it">"Italiano"</a>, <a href="www.smallworldofwords.org/nl">"Nederlands"</a>, <a href="www.smallworldofwords.org/fr">"Français"</a>, href="www.smallworldofwords.org/es">"Español"</a>. 
+Currently, I am excited about our attempt to measure the shared mental lexicon of seeveral languages including German. To participate choose your language: <a href="www.smallworldofwords.org/en">"English"</a>, <a href="www.smallworldofwords.org/de">"Deutsch"</a>, <a href="www.smallworldofwords.org/pt">"Português"</a>, <a href="www.smallworldofwords.org/ru">"русский"</a>, <a href="www.smallworldofwords.org/it">"Italiano"</a>, <a href="www.smallworldofwords.org/nl">"Nederlands"</a>, <a href="www.smallworldofwords.org/fr">"Français"</a>, <a href="www.smallworldofwords.org/es">"Español"</a>. 
 
 For more information see: <a href="www.smallworldofwords.org/de/project">"German project"</a>, <a href="www.smallworldofwords.org/en/project">"English project"</a>
 
