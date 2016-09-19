@@ -7,7 +7,7 @@ I am a researcher at the Center for Cognitive and Decision Science, University o
 
 My research broadly focuses on modeling human cognition. More specifically, I am interested in decisions from experience and decisions under uncertainty, semantic networks and their development across the liefspan, search processes in external and internal environments, and hand- and mouse-tracking methodologies. 
 
-For my publications visit: <a href="https://dwulff.github.io/publications/">publications page</a>.
+For my publications visit: <a href="https://dwulff.github.io/publications/">Publications</a>.
 
 Or: <a href="https://scholar.google.de/citations?user=FUN_nHMAAAAJ&hl=de">Google Scholar</a>
 
