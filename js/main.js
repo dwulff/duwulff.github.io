@@ -1,4 +1,4 @@
-var myDataRef = new Firebase('https://password-protect.firebaseio.com/');
+var myDataRef = new Firebase('https://password-protection.firebaseio.com/');
 
 
 function testFirebaseSet() {
