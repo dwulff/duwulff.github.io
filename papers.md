@@ -27,7 +27,4 @@ Full text
 Wulff, D. U., Hills, T. T., & Hertwig, R. (2012). Adaptive information search and decision making over single and repeated plays. In N. Miyake, D. Peebles, & R. P. Cooper (Eds.), Building bridges across cognitive sciences around the world: Proceedings of the 34th Annual Conference of the Cognitive Science Society (pp. 1167-1172). Austin, TX: Cognitive Science Society.
 Full text
 
-### Contact
-
-[dirk.wulff@unibas.ch](mailto:dirk.wulff@unibas.ch)
 
