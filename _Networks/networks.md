@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Netzwerke in der Psychologie
-permalink: /networks/
+permalink: /_Networks/networks/
 ---
