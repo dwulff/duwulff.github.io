@@ -5,6 +5,6 @@ permalink: /teaching/
 ---
 
 ## Seminar: Netzwerke in der Psychologie
-<a href="/Teaching/Networks/networks/">
+<a href="{{ site.baseurl }}/Teaching/Networks/network">/ </a>
 <img src="/images/Networks.png" alt="Bild"/>
 
