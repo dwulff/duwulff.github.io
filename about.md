@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a researcher at the Center for Cognitive and Decision Science, University of Basel, Switzrland, and an adjunct researcher at the Center for Adaptive Rationality, Max Planck Institute for Human, Germany.
 
-### More Information
+My research focuses broadly on modeling human cognition. More specifically, I have worked on decisions from experience and decisions under uncertainty, semantic networks and their development across the liefspan, search processes in external and internal environments, and hand- and mouse-tracking methodologies. Please see my <a href="https://dwulff.github.io/publications/">link publications page</a>.
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently, my work focuses on the on the assessment of the <a href="www.smallworldofwords.org">link shared</a> and the individual mental lexicon.      
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dirk.wulff@unibas.ch](mailto:dirk.wulff@unibas.ch)
