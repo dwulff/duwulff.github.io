@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Teaching
+title: Netzwerke in der Psychologie
 permalink: /networks/
 ---
