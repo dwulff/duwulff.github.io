@@ -7,11 +7,11 @@ I am a researcher at the Center for Cognitive and Decision Science, University o
 
 My research focuses broadly on modeling human cognition. More specifically, I have worked on decisions from experience and decisions under uncertainty, semantic networks and their development across the liefspan, search processes in external and internal environments, and hand- and mouse-tracking methodologies. 
 
-Find my publications here <a href="https://dwulff.github.io/publications/">publications page</a>.
+For my publications visit: <a href="https://dwulff.github.io/publications/">publications page</a>.
 
-Or here: See also: <a href="https://scholar.google.de/citations?user=FUN_nHMAAAAJ&hl=de">Google Scholar</a>
+Or: <a href="https://scholar.google.de/citations?user=FUN_nHMAAAAJ&hl=de">Google Scholar</a>
 
-Or here: <a href="https://www.researchgate.net/profile/Dirk_Wulff">Researchgate</a>
+Or: <a href="https://www.researchgate.net/profile/Dirk_Wulff">Researchgate</a>
 
 Currently, I am excited about our attempt to measure the shared mental lexicon of seeveral languages including German. To participate choose your language: <a href="http://www.smallworldofwords.org/en">English</a>, <a href="http://www.smallworldofwords.org/de">Deutsch</a>, <a href="http://www.smallworldofwords.org/pt">Português</a>, <a href="http://www.smallworldofwords.org/ru">русский</a>, <a href="http://www.smallworldofwords.org/it">Italiano</a>, <a href="http://www.smallworldofwords.org/nl">Nederlands</a>, <a href="http://www.smallworldofwords.org/fr">Français</a>, <a href="http://www.smallworldofwords.org/es">Español</a>. 
 
