@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+### About
 
 I am a researcher at the Center for Cognitive and Decision Science, University of Basel, Switzrland, and an adjunct researcher at the Center for Adaptive Rationality, Max Planck Institute for Human, Germany.
 
@@ -10,6 +11,6 @@ My research focuses broadly on modeling human cognition. More specifically, I ha
 
 Currently, my work focuses on the on the assessment of the <a href="www.smallworldofwords.org">link shared</a> and the individual mental lexicon.      
 
-### Contact me
+### Contact
 
 [dirk.wulff@unibas.ch](mailto:dirk.wulff@unibas.ch)
