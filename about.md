@@ -18,4 +18,5 @@ Dr. Dirk U. Wulff
 Center for Cognitive and Decision Science
 Department of Psychology, University of Basel
 Missionsstrasse 64A, CH-4055 Basel
+
 [dirk.wulff@unibas.ch](mailto:dirk.wulff@unibas.ch)
