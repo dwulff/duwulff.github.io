@@ -6,7 +6,7 @@ permalink: /_Networks/
 ### 26.09. Einführung 
 <a href="/eingangsfragebogen/" >
 
-<img src="/images/GoogleForms.png" alt="Bild" height=40 width=40/>
+<img src="/images/GoogleForms.png" alt="Bild"/>
 
 #### 03.10. Introduction
 
