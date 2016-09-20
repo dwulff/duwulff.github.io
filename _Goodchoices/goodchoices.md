@@ -8,26 +8,26 @@ permalink: /_Goodchoices/
 <a href="/q0_goodchoices/" >
 <img src="/images/GoogleForms.png" alt="GoogleIcon" height="40" width="40"/>
 
-#### 04.10. tba
+### 04.10. tba
 
-#### 11.10. tba
+### 11.10. tba
 
-#### 18.10. tba
+### 18.10. tba
 
-#### 25.10. Fällt aus
+### 25.10. Fällt aus
 
-#### 01.11. tba
+### 01.11. tba
 
-#### 08.11. tba
+### 08.11. tba
 
-#### 15.11. tba
+### 15.11. tba
 
-#### 22.11. tba
+### 22.11. tba
 
-#### 29.11. tba
+### 29.11. tba
 
-#### 06.12. tba
+### 06.12. tba
 
-#### 13.12. tba
+### 13.12. tba
 
-#### 20.12. tba
+### 20.12. tba
