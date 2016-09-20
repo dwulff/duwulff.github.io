@@ -6,7 +6,7 @@ permalink: /_Goodchoices/
 
 ### 27.09. Einführung
 <a href="/q0_goodchoices/" >
-<img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/></a> <img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/>
+<img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/></a><a href="{{site.baseurl}}/Downloads/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
 
 ### 04.10. tba
 
