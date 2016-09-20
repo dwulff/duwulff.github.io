@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Papers
-permalink: /papers/
+title: Publications
+permalink: /publications/
 ---
 
 ### In press & submitted
