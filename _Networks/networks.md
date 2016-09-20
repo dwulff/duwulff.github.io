@@ -3,7 +3,8 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
-#### 26.09. Introduction
+#### 26.09. Einführung
+1415 - 1545 Seminarraum 8
 
 #### 03.10. Introduction
 
@@ -13,18 +14,18 @@ permalink: /_Networks/
 
 #### 24.10. Fällt aus
 
-#### 31.10. Introduction
+#### 31.10. tba
 
-#### 07.11. Introduction
+#### 07.11. tba
 
-#### 14.11. Introduction
+#### 14.11. tba
 
 #### 21.11. Fällt aus
 
-#### 28.11. Introduction
+#### 28.11. tba
 
-#### 05.12. Introduction
+#### 05.12. tba
 
-#12.12. Introduction
+#### 12.12. tba
 
-#19.12. Introduction
+#### 19.12. tba
