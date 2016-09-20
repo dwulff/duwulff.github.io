@@ -4,7 +4,7 @@ title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
 ### 26.09. Einführung 
-<a href="/eingangsfragebogen/" >
+<a href="/q0_networks/" >
 <img src="/images/GoogleForms.png" alt="GoogleIcon" height="40" width="40"/>
 
 #### 03.10. Introduction
