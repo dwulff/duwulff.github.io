@@ -3,7 +3,7 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
-# 26.09. Introduction
+#### 26.09. Introduction
 
 #03.10. Introduction
 
