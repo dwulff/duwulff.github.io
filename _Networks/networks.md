@@ -3,7 +3,7 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
-### 26.09. <b>Einführung</b> 
+### 26.09. <strong>Einführung</strong> 
 <a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/><a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a><a href="{{site.url}}/_Networks/Literature/BaronchelliEtAl2013NetworksInCognitiveScience.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
 
 #### 03.10. tba
