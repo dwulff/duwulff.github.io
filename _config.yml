@@ -54,6 +54,7 @@ baseurl: ""
 #
 
 include: ['_Networks']
+include: ['_Goodchoices']
 
 permalink: /:title/
 
