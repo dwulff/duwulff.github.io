@@ -4,7 +4,7 @@ title: Was sind gute Entscheidungen
 permalink: /_Goodchoices/
 ---
 
-### 27.09. Einführung 
+### 27.09. <i>Einführung</i> 
 <a href="/q0_goodchoices/" >
 <img src="/images/GoogleForms.png" alt="GoogleIcon" height="40" width="40"/>
 
