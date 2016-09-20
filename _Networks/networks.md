@@ -7,11 +7,11 @@ permalink: /_Networks/
 <a href="/q0_networks/" >
 <img src="/images/GoogleForms.png" alt="GoogleIcon" height="40" width="40"/>
 
-#### 03.10. Introduction
+#### 03.10. tba
 
-#### 10.10. Introduction
+#### 10.10. tba
 
-#### 17.10. Introduction
+#### 17.10. tba
 
 #### 24.10. Fällt aus
 
