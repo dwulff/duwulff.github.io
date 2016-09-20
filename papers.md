@@ -10,7 +10,7 @@ Wulff, D. U., Mergenthaler, M., & Hertwig, R. (subm). A meta-analytic review of 
 
 Haslbeck, J. M. B., & Wulff, D. U. (subm). Estimating the Number of clusters via normalized cluster instability. In review at <i>Biometrika</i>.
 
-Wulff, D. U., & van den Bos, W. (in press). Modeling choices in delay discounting. <i>Psychological Science</i>.
+Wulff, D. U., & van den Bos, W. (in press). Modeling choices in delay discounting. <i>Psychological Science</i>.[pdf]:{{ site.baseurl }}/Papers/WulffVanDenBos_ModelingDelayDiscounting_R2_16Jul19.pdf
 
 ### Journal articles
 
