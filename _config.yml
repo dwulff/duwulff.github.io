@@ -53,8 +53,10 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-include: ['_Networks']
-include: ['_Goodchoices']
+include: 
+  ['_Networks']
+  ['_Goodchoices']
+
 
 permalink: /:title/
 
