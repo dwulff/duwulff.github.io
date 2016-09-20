@@ -35,7 +35,7 @@ Wulff, D. U., Hills, T. T., & Hertwig, R. (2012). Adaptive information search an
 
 ### Book chapters
 
-van den Bos, W., Jenny, M. A., & Wulff, D. (2014). Open minded psychology. In S. A. Moore (Ed.), Issues in open research data (pp. 107-127). London: Ubiquity Press. 
+van den Bos, W., Jenny, M. A., & Wulff, D. (2014). Open minded psychology. In S. A. Moore (Ed.), <i>Issues in open research data</i> (pp. 107-127). London: Ubiquity Press. 
 
 
 
