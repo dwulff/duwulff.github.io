@@ -3,6 +3,11 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
+# "House rules"
+
+Das Ziel dieses Seminar ist es Ihnen einen Überblick über die Anwendung und den Nutzen von Netzwerken für Fragestellungen der Psychologie zu geben. Das Seminar wird die methodologischen und mathematischen Grundlagen von Netzwerken behandeln sowie Anwendungen in den Bereichen soziale Beziehungen, semantisches Gedächtnis, Psychopathologie, und neuronale Netze. In jeder Sitzung werden ein oder zwei Zeitschriftenartikel oder Buchkapitel diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Freitag 20:00 vor der nächsten Sitzung</b> die Literatur und reichen über diese Seite 7 Verständnis- und 3 kritische Fragen ein. Zusätzlich wird jeder Teilnehmer im Laufe des Seminars ein <b>Kurzreferat</b> von 5 Minuten Länge halten (max. 3 Folien oder Whiteboard). Die Themen der Kurzreferate werden von mir spätestens 2 Wochen vor der jeweiligen Sitzung verteilt. Die Vorbereitung der Kurzreferate inklusive Literaturerecherche erfolgt eigenständig. Ich gebe jedoch gerne Hilfestellungen und stehe auch für Vorbesprechungen zur Verfügung. Die <b>Anwesenheit</b> der Teilnehmer wird erwartet aber nicht nicht überprüft. Die Seminarleistung ist erbracht, wenn zu jedem Termin die 10 Fragen eingereicht wurden und ein Kurzreferat gehalten wurde. 
+
+
 # Semesterplan
 
 ### 26.09. Überblick
