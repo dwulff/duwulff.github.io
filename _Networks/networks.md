@@ -8,16 +8,18 @@ permalink: /_Networks/
 Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf des Seminars zu geben.
 
 Bis zur nächsten Sitzung: 
-- Füllen Sie bis zum 30.9. den Eingangsfragebogen aus: <a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/></a>
+- Füllen Sie bis zum 30.9. den Eingangsfragebogen aus.
 - Lesen Sie bitte die Artikel von Barabasi (2012) und Watts und Strogatz (1998): 
- <a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a><a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
-- Reichen Sie bis zum 30.9. mindestens 3 Verständnis- und 3 kritische Fragen ein:
+ - Reichen Sie bis zum 30.9. mindestens 3 Verständnis- und 3 kritische Fragen ein:
+<a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/></a>
+<a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
+<a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
 
 Kurzreferate für die nächste Sitzung:
--Komplexität und Komplexitätsforschung
--Shortest path length
--Clustering coefficient / Transitivity
--Erdös-Renyi network
+- Komplexität und Komplexitätsforschung
+- Shortest path length
+- Clustering coefficient / Transitivity
+- Erdös-Renyi network
 
 
 
