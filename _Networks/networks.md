@@ -11,13 +11,11 @@ Das Ziel dieses Seminar ist es Ihnen einen Überblick über die Anwendung und de
 ## Semesterplan
 
 ### 26.09. Überblick
-Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf des Seminars zu geben.
+Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf des Seminars zu geben. Zusätzlich zu den üblichen Aufgaben füllen Sie bitte den Eingangsfragebogen aus.
 
 <b>Aufgaben</b>
-
-* Füllen Sie bis Freitag 20:00 den Eingangsfragebogen aus. <a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
-* Lesen Sie bitte die Artikel von Barabasi (2012) und Watts und Strogatz (1998). <a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a><a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-* Reichen Sie bis Freitag 20:00 mindestens 3 Verständnis- und 3 kritische Fragen ein.
+<a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a><a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <b>Kurzreferate</b>
 Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi network
