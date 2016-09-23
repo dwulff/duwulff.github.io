@@ -20,11 +20,7 @@ Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf de
 * Reichen Sie bis Freitag 20:00 mindestens 3 Verständnis- und 3 kritische Fragen ein.
 
 <b>Kurzreferate</b>
-
-* Komplexität und Komplexitätsforschung
-* Shortest path length
-* Clustering coefficient / Transitivity
-* Erdös-Renyi network
+Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi network
 
 
 
