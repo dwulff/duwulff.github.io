@@ -3,7 +3,7 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /Networks/
 ---
-Seminar, Herbstsemester 2016, Montags, 14.15-15.45, Seminarraum 08
+Seminar, Montags, 14.15-15.45, Seminarraum 08
 
 ## "House rules"
 
