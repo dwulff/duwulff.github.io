@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Was sind gute Entscheidungen
-permalink: /_Goodchoices/
+permalink: /Goodchoices/
 ---
 
 ### 27.09. Einführung
