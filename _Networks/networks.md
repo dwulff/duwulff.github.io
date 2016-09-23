@@ -14,7 +14,10 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf des Seminars zu geben. Zusätzlich zu den üblichen Aufgaben füllen Sie bitte ebenfalls bis Freitag 20:00 den Eingangsfragebogen aus.
 
 <b>Aufgaben</b>
-<a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a><a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a><a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <b>Kurzreferate</b>
 Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi model
