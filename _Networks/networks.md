@@ -4,30 +4,6 @@ title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
 
-<script>
-function password() {
-  var testV = 1;
-  var pass1 = prompt('Enter Your Password', ' ');
-  while (testV < 3) {
-    if (!pass1)
-      history.go(-1);
-    if (pass1.toLowerCase() == "Guest") {
-      alert('Password Correct');
-      window.open("Yournextpage.html");
-      break;
-    }
-    testV += 1;
-    var pass1 =
-      prompt('Access Denied - Password Incorrect, Please Try Again.', 'Password');
-  }
-  if (pass1.toLowerCase() != "password" & testV == 3)
-    history.go(-1);
-  return " ";
-}
-</script>
-
-<input type="button" class="btn btn-default btn-lg" value="Log In" onClick="passWord()">
-
 ### 26.09. Überblick
 <a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/><a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a><a href="{{site.url}}/_Networks/Literature/BaronchelliEtAl2013NetworksInCognitiveScience.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
 
