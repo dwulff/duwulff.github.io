@@ -3,7 +3,7 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /_Networks/
 ---
-#Semesterplan
+# Semesterplan
 
 ### 26.09. Überblick
 Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf des Seminars zu geben.
