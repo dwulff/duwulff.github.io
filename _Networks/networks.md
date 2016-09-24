@@ -26,6 +26,7 @@ Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf de
 Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi model
 
 ### 10.10. Measuring and Accessing Social Networks
+In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der Teilnehmer.
 
 <i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -35,7 +36,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 <i>Kurzreferate</i> Hubs - Social network measurement tools <!--- From chapter in Newman book ---> - History of network science
 
-### 17.10. Spread of Social Influence
+### 17.10. Spreading Social Influence
 
 <i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/ColemanEtAl1957DiffusionOfInnovationAmongPhysicians.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
