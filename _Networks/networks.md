@@ -30,6 +30,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <b>Literatur & Fragebogen</b>
 <a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSesnHlTZIdJY7_SdgGBG52PxFdBnz4GWUEUkuHhOqmQYIs-RQ/viewform?embedded=true" width="720" height="800" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
 
 <b>Kurzreferate</b>
 
