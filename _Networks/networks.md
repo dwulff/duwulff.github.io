@@ -48,6 +48,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 ### 24.10. - Termin fällt aus -
 
 ### 31.10. Social Networks, Health, and Policy
+In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des sozialen Netzwerks der Teilnehmer. 
 
 <i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/ChristakisFowler2008SmokingInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
