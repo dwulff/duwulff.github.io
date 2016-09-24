@@ -33,7 +33,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 17.10. Spread of Social Influence
 
@@ -42,7 +42,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/AralWalker2012IdentifyingInfluentialsFromFacebookData.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 24.10. Fällt aus
 
@@ -53,7 +53,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/LiljerosEtAl2001WebOfSexualContacts.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 07.11. Networks and Psychpathology
 
@@ -67,7 +67,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 21.11. Fällt aus
 
@@ -78,7 +78,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 05.12. Accessing the Mental Lexicon
 
@@ -87,7 +87,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 12.12. The Mental Lexicon Across The Lifespan
 
@@ -96,7 +96,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/WulffEtAl2016AgingLexicon_final.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q9_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 
 ### 19.12. Neuronale Netzwerke
 
@@ -105,4 +105,4 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
