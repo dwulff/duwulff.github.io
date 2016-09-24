@@ -34,7 +34,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 
-<i>Kurzreferate</i> Hubs - Social network measurement tools <!--- From chapter in Newman book ---> - History of network science
+<i>Kurzreferate</i> Hubs - Social network measurement tools <!--- From chapter in Newman book ---> - History of network science - Size of the social network <!--- Bernard et al 91 --->
 
 ### 17.10. Spreading Social Influence
 
@@ -55,7 +55,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="{{site.url}}/_Networks/Literature/LiljerosEtAl2001WebOfSexualContacts.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> Kamada–Kawai algorithm - Scale-free distribution & Barabási-Albert-model
 
 ### 07.11. Networks and Psychpathology
 
