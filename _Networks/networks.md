@@ -17,17 +17,17 @@ Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf de
 
 ### 03.10. Introduction
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<b>Kurzreferate</b>
+<i>Kurzreferate</i>
 Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi model
 
 ### 10.10. Measuring and Accessing Social Networks
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -37,7 +37,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 17.10. Spread of Social Influence
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/ColemanEtAl1957DiffusionOfInnovationAmongPhysicians.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/AralWalker2012IdentifyingInfluentialsFromFacebookData.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -48,7 +48,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 31.10. Social Networks, Health, and Policy
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/ChristakisFowler2008SmokingInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/LiljerosEtAl2001WebOfSexualContacts.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -57,13 +57,13 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 07.11. Networks and Psychpathology
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/BorsboomCramer2013AnnualReview.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 ### 14.11. The mental lexicon
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
@@ -73,7 +73,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 28.11. Measuring the Mental Lexicon
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/MoraisEtAl2013SnowBall.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -82,7 +82,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 05.12. Accessing the Mental Lexicon
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/GriffithEtAl2007GoogleAndTheMind.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -91,6 +91,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 12.12. The Mental Lexicon Across The Lifespan
 
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WulffEtAl2016AgingLexicon_final.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q9_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -99,7 +100,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 ### 19.12. Neuronale Netzwerke
 
-<b>Literatur & Fragebogen</b>
+<i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/AchardEtAl2006SmallWorldFunctionalBrainNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
