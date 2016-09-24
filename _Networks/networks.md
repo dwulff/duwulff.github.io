@@ -33,7 +33,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 
-<i>Kurzreferate</i> Hubs - Social network measurement tools <!--- From chapter in Newman book ---> - 
+<i>Kurzreferate</i> Hubs - Social network measurement tools <!--- From chapter in Newman book ---> - History of network science
 
 ### 17.10. Spread of Social Influence
 
