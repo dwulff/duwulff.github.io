@@ -5,7 +5,7 @@ permalink: /Networks/
 ---
 Seminar, Montags, 14.15-15.45, Seminarraum 08
 
-## "House rules"
+## Seminarregeln
 
 Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutzen von Netzwerken für Fragestellungen der Psychologie zu geben. Das Seminar wird die methodologischen und mathematischen Grundlagen von Netzwerken behandeln und Anwendungen in den Bereichen soziale Beziehungen, semantisches Gedächtnis, Psychopathologie, und neuronale Netze vorstellen. In jeder Sitzung werden ein oder zwei Zeitschriftenartikel (oder Buchkapitel) diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Freitag 20:00</b> vor der nächsten Sitzung die Literatur und reichen über diese Seite sieben Verständnis- und drei kritische <b>Fragen</b> ein. Zusätzlich wird jeder Teilnehmer im Laufe des Seminars ein <b>Kurzreferat</b> von 5 Minuten Länge halten (max. drei Folien oder Whiteboard). Die Themen der Kurzreferate werden von mir spätestens 2 Wochen vor der jeweiligen Sitzung verteilt. Die Vorbereitung der Kurzreferate inklusive Literaturerecherche erfolgt eigenständig. Ich gebe jedoch gerne Hilfestellungen und stehe auch für Vorbesprechungen zur Verfügung. Darüberhinaus wird es begleitend praktische <b>Demonstrationen</b> geben. Ziel der Demonstrationen ist es die praktischen Aspekte der Erhebung, Analyse und Illustration von Netzwerken näher zu beleuchten. Die Datengrundlage dafür soll, Einverständis voraussgesetzt, von den Teilnehmern kommen. Die praktische Demonstrationen werden von mir durchgeführt und vorgestellt. Die <b>Anwesenheit</b> der Teilnehmer wird erwartet, aber nicht nicht überprüft. <b>Die Seminarleistung wird erbracht durch das Einreichen der zehn Fragen zu jedem Termin, das Halten eines Kurzreferats, und der Mitwirkung an den praktischen Demonstrationen (Einverständis voraussgesetzt).</b>
 
@@ -17,7 +17,7 @@ Ziel dieser Sitzung ist es einen Überblick über die Inhalten und den Ablauf de
 
 ### 03.10. Introduction
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -28,7 +28,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 ### 10.10. Measuring and Accessing Social Networks
 In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der Teilnehmer.
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -38,7 +38,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 
 ### 17.10. Spreading Social Influence
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/ColemanEtAl1957DiffusionOfInnovationAmongPhysicians.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/AralWalker2012IdentifyingInfluentialsFromFacebookData.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -50,7 +50,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 ### 31.10. Social Networks, Health, and Policy
 In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des sozialen Netzwerks der Teilnehmer. 
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/ChristakisFowler2008SmokingInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/LiljerosEtAl2001WebOfSexualContacts.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -59,7 +59,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 
 ### 07.11. Networks and Psychpathology
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/BorsboomCramer2013AnnualReview.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
@@ -68,7 +68,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 ### 14.11. The mental lexicon
 In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilnehmer.
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
@@ -78,7 +78,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 
 ### 28.11. Measuring the Mental Lexicon
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/MoraisEtAl2013SnowBall.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -87,7 +87,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 
 ### 05.12. Accessing the Mental Lexicon
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/GriffithEtAl2007GoogleAndTheMind.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -97,7 +97,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 ### 12.12. The Mental Lexicon Across The Lifespan
 In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen Lexicons der Teilnehmer.
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WulffEtAl2016AgingLexicon_final.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q9_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
@@ -106,7 +106,7 @@ In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen L
 
 ### 19.12. Neuronale Netzwerke
 
-<i>Literatur & Fragebogen</i>
+<i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/AchardEtAl2006SmallWorldFunctionalBrainNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
