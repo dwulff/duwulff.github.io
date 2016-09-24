@@ -44,7 +44,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 <i>Kurzreferate</i>
 
-### 24.10. -- Termin fällt aus --
+### 24.10. - Termin fällt aus -
 
 ### 31.10. Social Networks, Health, and Policy
 
@@ -69,7 +69,7 @@ Komplexität und Komplexitätsforschung - Shortest path length - Clustering coef
 
 <i>Kurzreferate</i>
 
-### 21.11. -- Termin fällt aus --
+### 21.11. - Termin fällt aus -
 
 ### 28.11. Measuring the Mental Lexicon
 
