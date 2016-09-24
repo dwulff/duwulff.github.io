@@ -74,7 +74,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> tba
 
 ### 21.11. - Termin fällt aus -
 
@@ -85,7 +85,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> tba
 
 ### 05.12. Accessing the Mental Lexicon
 
@@ -94,7 +94,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> tba
 
 ### 12.12. The Mental Lexicon Across The Lifespan
 In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen Lexicons der Teilnehmer.
@@ -104,7 +104,7 @@ In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen L
 <a href="{{site.url}}/_Networks/Literature/WulffEtAl2016AgingLexicon_final.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q9_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> tba
 
 ### 19.12. Neuronale Netzwerke
 
@@ -113,4 +113,4 @@ In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen L
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i>
+<i>Kurzreferate</i> tba
