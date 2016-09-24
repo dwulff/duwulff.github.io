@@ -64,6 +64,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 ### 14.11. The mental lexicon
+In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilnehmer.
 
 <i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -92,6 +93,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <i>Kurzreferate</i>
 
 ### 12.12. The Mental Lexicon Across The Lifespan
+In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen Lexicons der Teilnehmer.
 
 <i>Literatur & Fragebogen</i>
 <a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
