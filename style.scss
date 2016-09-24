@@ -168,7 +168,7 @@ img {
   width: 90px;
   height: 90px;
   margin-right: 16px;
-   position = fixed;
+  position: fixed;
 
   @include mobile {
     float: none;
@@ -188,7 +188,7 @@ img {
     float: none;
     display: block;
     margin: 0 auto;
-     position = fixed;
+    position: fixed;
   }
 }
 
@@ -200,14 +200,14 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
-   position = fixed;
+  position: fixed;
 }
 
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-  position = fixed;
+  position: fixed;
 
   @include mobile {
     margin: 3px 0;
