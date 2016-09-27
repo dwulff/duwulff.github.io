@@ -38,6 +38,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 01.11. Long and Short Run Decision Making
 
+<!--- Lopes short run & Houston --->
+
 <i>Materialien</i>
 
 ### 08.11. Heuristics and Biases
