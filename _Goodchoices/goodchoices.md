@@ -4,30 +4,63 @@ title: Was sind gute Entscheidungen
 permalink: /Goodchoices/
 ---
 
-### 27.09. Einführung
-<a href="/q0_goodchoices/" >
-<img src="/images/GoogleForms.png" alt="GoogleIcon" height="40"/></a><a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="40" width = "39"/></a>
+Seminar, Dienstags, 14.15-15.45, Seminarraum 11
 
-### 04.10. tba
+## Seminarablauf
 
-### 11.10. tba
+Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Freitag 20:00</b> vor der nächsten Sitzung die Literatur und reichen über diese Seite sieben Verständnis- und drei kritische <b>Fragen</b> ein. Kritische Fragen sind jeweils kurz zu begründen. Zu Beginn jeder Sitzung werden die Artikel jeweils durch jeweils einen zufällig ausgewählten Teilnehmer kurz vorgestellt (ca. 5-10min). <b>Die Seminarleistung wird erbracht durch das Einreichen der zehn Fragen zu jedem Termin und die regelmäßige Teilnahme am Seminar. Die Teilnahme wird nicht überprüft.</b>
 
-### 18.10. tba
 
-### 25.10. Fällt aus
+## Semesterplan
 
-### 01.11. tba
+### 27.09. Overview
+<i>Materialien</i>
+<a href="/q0_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Networks/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-### 08.11. tba
+### 04.10. The Beginnings
 
-### 15.11. tba
+<i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/Bernstein1998AgainstTheGodsChapter4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/Bernstein1998AgainstTheGodsChapter6.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q1_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-### 22.11. tba
+
+### 11.10. The Neo-Bernoullian Approach
+
+<i>Materialien</i>
+
+### 18.10. Decisions under Uncertainty
+
+<i>Materialien</i>
+
+### 25.10. - Termin fällt aus -
+
+### 01.11. Long and Short Run Decision Making
+
+<i>Materialien</i>
+
+### 08.11. Heuristics and Biases
+
+<i>Materialien</i>
+
+### 15.11. Ecological Rationality I
+
+<i>Materialien</i>
+
+### 22.11. Ecological Rationality II
 
 ### 29.11. tba
 
+<i>Materialien</i>
+
 ### 06.12. tba
 
+<i>Materialien</i>
+
 ### 13.12. tba
+<i>Materialien</i>
 
 ### 20.12. tba
+
+<i>Materialien</i>
