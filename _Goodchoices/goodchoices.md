@@ -16,7 +16,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 27.09. Overview
 <i>Materialien</i>
 <a href="/q0_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
-<a href="{{site.url}}/_Networks/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 04.10. The Beginnings
 
