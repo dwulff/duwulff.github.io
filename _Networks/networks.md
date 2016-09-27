@@ -25,7 +25,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i>
-Komplexität und Komplexitätsforschung - Shortest path length - Clustering coefficient / Transitivity - Erdös-Renyi model
+Komplexität und Komplexitätsforschung (Victoria F.) - Shortest path length (Nicolà K.) - Clustering coefficient / Transitivity (Johannes M.) - Erdös-Renyi model (Samuel A.)
 
 ### 10.10. Measuring and Accessing Social Networks
 In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der Teilnehmer.
