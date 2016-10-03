@@ -23,6 +23,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r1_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i>
 Komplexität und Komplexitätsforschung (Victoria F.) - Shortest path length (Nicolà K.) - Clustering coefficient / Transitivity (Johannes M.) - Erdös-Renyi model (Samuel A.)
