@@ -24,6 +24,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q1_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r1_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Networks/Downloads/Session II.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Kurzreferate</i>
 Komplexität und Komplexitätsforschung (Victoria F.) - Shortest path length (Nicolà K.) - Clustering coefficient / Transitivity (Johannes M.) - Erdös-Renyi model (Samuel A.)
@@ -36,8 +37,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-
-<i>Kurzreferate</i> Hubs and network centrality - Social network measurement tools <!--- From chapter in Newman book ---> - History of network science - Size of the social network <!--- Bernard et al 91 --->
+<i>Kurzreferate</i> Hubs and network centrality (Dirk W.) - Social network measurement tools (Samuele R.) - History of network science (Lea N.)
 
 ### 17.10. Spreading Social Influence
 
@@ -46,7 +46,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="{{site.url}}/_Networks/Literature/AralWalker2012IdentifyingInfluentialsFromFacebookData.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Homophily and Assortivity - Epidemics and Networks
+<i>Kurzreferate</i> Hazard models (Leonard S.) - Homophily and Assortivity (Lara Babbi)
 
 ### 24.10. - Termin fällt aus -
 
