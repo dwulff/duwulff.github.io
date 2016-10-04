@@ -30,7 +30,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <i>Materialien</i>
 
-### 18.10. Decisions under Uncertainty
+### 18.10. Heuristics and Biases
 
 <i>Materialien</i>
 
@@ -42,7 +42,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <i>Materialien</i>
 
-### 08.11. Heuristics and Biases
+### 08.11. Decisions under Uncertainty
 
 <i>Materialien</i>
 
