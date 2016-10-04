@@ -26,6 +26,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q1_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r1_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
+<!--- next year read original Bernoulli article: Bernoulli 1954 Econometrika --->
 
 ### 11.10. The Neo-Bernoullian Approach
 
