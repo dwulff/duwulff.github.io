@@ -8,7 +8,7 @@ Seminar, Dienstags, 14.15-15.45, Seminarraum 11
 
 ## Seminarablauf
 
-Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Freitag 20:00</b> vor der nächsten Sitzung die Literatur und reichen über diese Seite sieben Verständnis- und drei kritische <b>Fragen</b> ein. Kritische Fragen sind jeweils kurz zu begründen. Zu Beginn jeder Sitzung werden die Artikel jeweils durch jeweils einen zufällig ausgewählten Teilnehmer kurz vorgestellt (ca. 5-10min). <b>Die Seminarleistung wird erbracht durch das Einreichen der zehn Fragen zu jedem Termin und die regelmäßige Teilnahme am Seminar. Die Teilnahme wird nicht überprüft.</b>
+Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Sonntag 20:00</b> vor der nächsten Sitzung die Literatur und reichen über diese Seite sieben Verständnis- und drei kritische <b>Fragen</b> ein. Kritische Fragen sind jeweils kurz zu begründen. Zu Beginn jeder Sitzung werden die Artikel jeweils durch jeweils einen zufällig ausgewählten Teilnehmer kurz vorgestellt (ca. 5-10min). <b>Die Seminarleistung wird erbracht durch das Einreichen der zehn Fragen zu jedem Termin und die regelmäßige Teilnahme am Seminar. Die Teilnahme wird nicht überprüft.</b>
 
 
 ## Semesterplan
