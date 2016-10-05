@@ -31,10 +31,18 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 11.10. The Neo-Bernoullian Approach
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/HastieDawes2010Chapter8.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/HastieDawes2010Chapter11.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q2_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
 
 ### 18.10. Heuristics and Biases
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/KerenTeigen2004YetAnotherLookAtTheHeuristicAndBiasesApproach.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/KahnemanTversky1979ProspectTheory.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q3_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
 
 ### 25.10. - Termin fällt aus -
 
@@ -43,6 +51,10 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <!--- Lopes short run & Houston --->
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/Lopes1996WhenTimeIsOfTheEssence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/HoustonEtAl2007ViolationsOfTransitivityUnderFitessMaximization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q3_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
 
 ### 08.11. Decisions under Uncertainty
 
