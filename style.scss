@@ -19,7 +19,9 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+	//font-family: "Gill Sans";
+	//font-size: 18px/1.4;
+  font: 18px/1.4 $helveticaNeue;
   color: $darkGray;
 }
 
@@ -165,8 +167,8 @@ img {
 
 .site-avatar {
   float: left;
-  width: 90px;
-  height: 90px;
+  width: 65px;
+  height: 65px;
   margin-right: 16px;
 
   @include mobile {
