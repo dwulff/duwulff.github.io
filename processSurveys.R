@@ -1,20 +1,13 @@
 options(stringsAsFactors = F)
 require(googlesheets)
 
-require(devtools);install_github('dwulff/translatoR');require(translatoR)
 setwd('~/Dropbox (2.0)/Work/Software/dwulff.github.io/')
-
-
-## Intro survey
-
-
-
 
 goodchoices = read.table('_Goodchoices/GoodchoicesSurveys.txt',header=F,sep='\n')[,1]
 networks    = read.table('_Networks/NetworksSurveys.txt',header=F,sep='\n')[,1]
 
-tab = paste0(networks[1],' (Antworten)')
-
+tab = paste0(networks[2],' (Antworten)')
+tab = paste0(goodchoices[1],' (Antworten)')
 
 
 gs = gs_title(tab)
