@@ -36,7 +36,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q2_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
-<a href="/r1_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r2_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 <a href="{{site.url}}/_Networks/Downloads/Session III.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Kurzreferate</i> Hubs and network centrality (Dirk W.) - Social network measurement tools (Samuele R.) - History of network science (Lea N.)
