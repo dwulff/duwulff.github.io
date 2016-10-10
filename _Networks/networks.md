@@ -49,7 +49,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/PsychoNet/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Hazard models (Leonard S.) - Homophily and Assortivity (Lara Babbi)
+<i>Kurzreferate</i> Hazard models (Leonard S.) - Homophily and Assortivity (Lara B.)
 
 ### 24.10. - Termin fällt aus -
 
