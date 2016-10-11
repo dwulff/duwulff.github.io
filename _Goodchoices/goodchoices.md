@@ -36,6 +36,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/HastieDawes2010Chapter11.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q2_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r2_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Goodchoices/Downloads/Session III.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 
 ### 18.10. Heuristics and Biases
