@@ -28,6 +28,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!--- next year read original Bernoulli article: Bernoulli 1954 Econometrika --->
 <!--- also consider Jeremy Bentham 1798 --->
+<!--- also consider reading Bayes original Text --->
 
 ### 11.10. The Neo-Bernoullian Approach
 
