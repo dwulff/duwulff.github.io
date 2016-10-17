@@ -7,7 +7,7 @@ goodchoices = read.table('_Goodchoices/GoodchoicesSurveys.txt',header=F,sep='\n'
 networks    = read.table('_Networks/NetworksSurveys.txt',header=F,sep='\n')[,1]
 
 tab = paste0(networks[2],' (Antworten)')
-tab = paste0(goodchoices[1],' (Antworten)')
+tab = paste0(goodchoices[2],' (Antworten)')
 
 
 gs = gs_title(tab)
@@ -22,3 +22,5 @@ crit = unlist(d[,11:13])
   
 for(com in comp) cat(com,'\n\n')
 for(cri in crit) cat(cri,'\n\n')
+
+
