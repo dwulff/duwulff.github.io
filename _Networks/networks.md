@@ -48,6 +48,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 <a href="{{site.url}}/_Networks/Literature/AralWalker2012IdentifyingInfluentialsFromFacebookData.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q3_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/PsychoNet/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r3_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i> Hazard models (Leonard S.) - Homophily and Assortivity (Lara B.)
 
