@@ -58,8 +58,8 @@ In dieser Sitzung besprechen wir u.a. die Erhebung eines sozialen Netwerks der T
 In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des sozialen Netzwerks der Teilnehmer. 
 
 <i>Materialien</i>
-<a href="{{site.url}}/_Networks/Literature/ChristakisFowler2008SmokingInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Networks/Literature/LiljerosEtAl2001WebOfSexualContacts.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/ChristakisFowler2007ObesityInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/Lyons2011FlawedSocialNetworkAnalysis.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i> Kamada–Kawai algorithm - Scale-free distribution & Barabási-Albert model
