@@ -2,7 +2,7 @@
 #
 #
 
-PASSWORD = 'networksarecool'
+PASSWORD = ''
 
 # ---- load packages
 if(!require(devtools)) install.packages('devtools') ; require(devtools)
