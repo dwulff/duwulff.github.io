@@ -1,7 +1,7 @@
 Zehn Fragen zu Barabási (2012) und Watts & Strogatz (1998)
 Zehn Fragen zu Milgram (1967) und Dodds et al. (2003)
 Zehn Fragen zu Coleman et al. (1957) und Aral & Walker (2012)
-Zehn Fragen zu Christakis & Fowler (2008) und Liljeros et al. (2001)
+Zehn Fragen zu Christakis & Fowler (2008) und Lyons (2011)
 Zehn Fragen zu Borsboom & Cramer (2013)
 Zehn Fragen zu Steyvers & Tenenbaum (2004)
 Zehn Fragen zu Morais et al. (2013) und Goñi et al. (2010)
