@@ -73,7 +73,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="{{site.url}}/_Networks/Literature/BorsboomCramer2013AnnualReview.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Fruchterman-Reingold algorithm - (History of) DSM-IV and ICD-10 - Weighted networks
+<i>Kurzreferate</i> Force-directed graph drawing (Fruchterman-Reingold / Kamada-Kwai) - (History of) DSM-IV and ICD-10 - Weighted networks (& weighted network measures)
 
 ### 14.11. The mental lexicon
 In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilnehmer.
