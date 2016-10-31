@@ -39,6 +39,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/r2_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 <a href="{{site.url}}/_Goodchoices/Downloads/Session III.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
+<!--- read von Neumann & Morgenstern --->
+<!--- read von Luce Raiffa --->
 
 ### 18.10. Heuristics and Biases
 
@@ -48,12 +50,11 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q3_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r3_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
+<!--- read only CPT --->
 
 ### 25.10. - Termin fällt aus -
 
 ### 01.11. Long and Short Run Decision Making
-
-<!--- Lopes short run & Houston --->
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Lopes1996WhenTimeIsOfTheEssence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -65,19 +66,33 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <i>Materialien</i>
 
+<!--- Arkes et al? --->
+<!--- Simon (55) & Simon (83) ? --->
+
 ### 15.11. Ecological Rationality I
 
 <i>Materialien</i>
 
+<!--- Gigerenzer Topics --->
+
 ### 22.11. Ecological Rationality II
 
-### 29.11. tba
+<!--- Simsek --->
+<!---  --->
+
+### 22.11. Fast and Frugal Trees
 
 <i>Materialien</i>
 
-### 06.12. tba
+<!--- --->
+
+### 06.12. Heuristics and Finance
 
 <i>Materialien</i>
+
+<!--- AikmanEtAl --->
+<!--- Dog and Frisbee --->
+
 
 ### 13.12. tba
 <i>Materialien</i>

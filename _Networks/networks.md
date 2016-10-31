@@ -61,8 +61,11 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="{{site.url}}/_Networks/Literature/ChristakisFowler2007ObesityInSocialNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/Lyons2011FlawedSocialNetworkAnalysis.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Networks/Downloads/psychonet.RData" ><img src="/images/Rlogo.png" alt="Bild" height="18"></a><br>
 
-<i>Kurzreferate</i> Kamada–Kawai algorithm - Scale-free distribution & Barabási-Albert model
+
+<i>Kurzreferate</i> Keine
 
 ### 07.11. Networks and Psychpathology
 
