@@ -62,7 +62,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="{{site.url}}/_Networks/Literature/Lyons2011FlawedSocialNetworkAnalysis.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q4_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r4_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
-<a href="{{site.url}}/_Networks/Downloads/psychonet.RData" ><img src="/images/Rlogo.png" alt="Bild" height="18"></a><br>
+<a href="{{site.url}}/_Networks/Downloads/Psychonet_dem.R" ><img src="/images/Rlogo.png" alt="Bild" height="18"></a><br>
 
 
 <i>Kurzreferate</i> Keine
