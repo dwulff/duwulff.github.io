@@ -76,13 +76,13 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <i>Kurzreferate</i> Force-directed graph drawing (Fruchterman-Reingold / Kamada-Kwai) - (History of) DSM-IV and ICD-10 - Weighted networks (& weighted network measures)
 
 ### 14.11. The mental lexicon
-In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilnehmer.
+In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilnehmer.
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> tba
+<i>Kurzreferate</i> Preferential attachment (Barabási-Albert) & scale-free distributions - Collins & Quillian - Latent Semantic Analysis
 
 ### 21.11. - Termin fällt aus -
 
@@ -93,7 +93,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentalen Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> tba
+<i>Kurzreferate</i> Modularität - BEAGLE - Word2Vec
 
 ### 05.12. Accessing the Mental Lexicon
 
