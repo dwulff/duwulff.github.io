@@ -63,17 +63,17 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/r4_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 
-### 08.11. Decisions under Uncertainty
+### 08.11. Bounded Rationality and Coherence
 
 <i>Materialien</i>
-<a href="{{site.url}}/_Goodchoices/Literature/Simon1955ABehavioralModelOfRationalChoice.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/Simon1983ReasonInHumanAffairsChapter1.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q5_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- Arkes et al? --->
 <!--- Simon (55) & Simon (83) ? --->
 
-### 15.11. Ecological Rationality I
+### 15.11. Less is more
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -81,7 +81,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!--- Gigerenzer Topics --->
 
-### 22.11. Ecological Rationality II
+### 22.11. Ecological Rationality
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
