@@ -66,6 +66,9 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 08.11. Decisions under Uncertainty
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/Simon1955ABehavioralModelOfRationalChoice.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q5_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- Arkes et al? --->
 <!--- Simon (55) & Simon (83) ? --->
@@ -73,30 +76,49 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 15.11. Ecological Rationality I
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q6_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- Gigerenzer Topics --->
 
 ### 22.11. Ecological Rationality II
 
-<!--- Simsek --->
-<!---  --->
-
-### 22.11. Fast and Frugal Trees
-
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/Simsek2013Dominance.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q7_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- --->
+<!--- Simsek --->
+<!--- Katsikopoulos et al  --->
 
 ### 06.12. Heuristics and Finance
 
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/Haldane2012DogAndFrisbee.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/AikmanEtAl2014SimplicityVersusComplexityInFinancialRegulation.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q8_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- AikmanEtAl --->
 <!--- Dog and Frisbee --->
 
+### 22.11. Heuristics and Medicine
 
-### 13.12. tba
 <i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/MarewskiGigerenzer2012Medicine.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/JennyEtAl2013SimpleRulesForDetectingDepression.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q9_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
+<!--- JennyOnDepression --->
+<!--- Marewski  --->
+
+### 13.12. Medical Decision Analysis
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt1.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt2.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt3.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/q10_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 ### 20.12. tba
 
