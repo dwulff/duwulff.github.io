@@ -72,6 +72,7 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/BorsboomCramer2013AnnualReview.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r5_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i> Force-directed graph drawing (Fruchterman-Reingold / Kamada-Kwai) - (History of) DSM-IV and ICD-10 - Weighted networks (& weighted network measures)
 
