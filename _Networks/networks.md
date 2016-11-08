@@ -74,7 +74,8 @@ In dieser Sitzung besprechen wir u.a. die Resultate unserer Erhebung des soziale
 <a href="/q5_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r5_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Force-directed graph drawing (Fruchterman-Reingold / Kamada-Kwai) - (History of) DSM-IV and ICD-10 - Weighted networks (& weighted network measures)
+<i>Kurzreferate</i> Force-directed graph drawing (Fruchterman-Reingold / Kamada-Kwai; Markus S.)
+<!---- (History of) DSM-IV and ICD-10 - Weighted networks (& weighted network measures) --->
 
 ### 14.11. The mental lexicon
 In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilnehmer.
@@ -83,7 +84,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Preferential attachment (Barabási-Albert) & scale-free distributions - Collins & Quillian - Latent Semantic Analysis
+<i>Kurzreferate</i> Preferential attachment (Barabási-Albert) & scale-free distributions (Johannes M.) - Collins & Quillian (Samir M.) - Latent Semantic Analysis (Victoria F.)
 
 ### 21.11. - Termin fällt aus -
 
