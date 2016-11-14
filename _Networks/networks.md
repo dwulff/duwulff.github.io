@@ -83,6 +83,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/SteyversTenenbaum2004LargeScaleStructureOfSemanticNetowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r6_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i> Preferential attachment (Barabási-Albert) & scale-free distributions (Johannes M.) - Collins & Quillian (Samir M.) - Latent Semantic Analysis (Victoria F.)
 
@@ -95,7 +96,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Modularität - BEAGLE - Word2Vec
+<i>Kurzreferate</i> Modularität - (Generalized) Topological Overlap
 
 ### 05.12. Accessing the Mental Lexicon
 
@@ -104,7 +105,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> tba
+<i>Kurzreferate</i> BEAGLE - Word2Vec
 
 ### 12.12. The Mental Lexicon Across The Lifespan
 In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen Lexicons der Teilnehmer.
