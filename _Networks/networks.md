@@ -96,7 +96,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> Modularität - (Generalized) Topological Overlap
+<i>Kurzreferate</i> Modularität - (Generalized) Topological Overlap - Random walks
 
 ### 05.12. Accessing the Mental Lexicon
 
