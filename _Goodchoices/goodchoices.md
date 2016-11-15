@@ -93,6 +93,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <!--- Simsek --->
 <!--- Katsikopoulos et al  --->
 
+### 29.11. - Termin fällt aus -
+
 ### 06.12. Heuristics and Finance
 
 <i>Materialien</i>
@@ -103,7 +105,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <!--- AikmanEtAl --->
 <!--- Dog and Frisbee --->
 
-### 22.11. Heuristics and Medicine
+### 13.12. Heuristics and Medicine
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/MarewskiGigerenzer2012Medicine.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -113,7 +115,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <!--- JennyOnDepression --->
 <!--- Marewski  --->
 
-### 13.12. Medical Decision Analysis
+### 20.12. Medical Decision Analysis
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt1.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
