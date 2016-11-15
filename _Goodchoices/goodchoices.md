@@ -79,6 +79,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q6_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r6_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- Gigerenzer Topics --->
 
