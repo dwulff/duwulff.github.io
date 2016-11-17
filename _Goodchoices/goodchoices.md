@@ -83,7 +83,9 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!--- Gigerenzer Topics --->
 
-### 22.11. Ecological Rationality
+### 22.11. - Termin fällt aus -
+
+### 29.11. Ecological Rationality
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -92,8 +94,6 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!--- Simsek --->
 <!--- Katsikopoulos et al  --->
-
-### 29.11. - Termin fällt aus -
 
 ### 06.12. Heuristics and Finance
 
