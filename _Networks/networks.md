@@ -95,6 +95,7 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/MoraisEtAl2013SnowBall.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/GoniEtAl2010SemanticOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q7_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r7_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Kurzreferate</i> Modularität - Random walks
 
