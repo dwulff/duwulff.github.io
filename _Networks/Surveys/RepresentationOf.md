@@ -5,4 +5,4 @@ permalink: /RepresentationOf/
 
 
 ## Throw a coin and choose accordingly:
-<a href="http://ww3.unipark.de/uc/CDS/6d56/" ><img src="/images/heads.png" height="80" alt="Bild"/></a><a href="http://ww3.unipark.de/uc/CDS/5c4b/" ><tab1></tab1><img src="/images/tails.png" height="80" alt="Bild"/></a>
+<a href="http://ww3.unipark.de/uc/CDS/6d56/" ><img src="/images/heads.png" height="80" alt="Bild"/></a>  <a href="http://ww3.unipark.de/uc/CDS/5c4b/" ><img src="/images/tails.png" height="80" alt="Bild"/></a>
