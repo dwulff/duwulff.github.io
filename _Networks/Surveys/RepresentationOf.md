@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /PsychoNet/
+permalink: /RepresentationOf/
 ---
 
 
