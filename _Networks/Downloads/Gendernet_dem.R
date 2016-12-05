@@ -2,7 +2,7 @@
 #      READ AND DECRYPT
 # --------------------------------------------------------------------
 
-PASSWORD = '' # networks are what
+PASSWORD = 'networksarecool' # networks are what
 
 # ---- load packages
 if(!require(devtools)) install.packages('devtools') ; require(devtools)
@@ -91,6 +91,9 @@ network_plot(f,2,col)
 #      STATS
 # --------------------------------------------------------------------
 
+g_m = graph_from_data_frame(subset(edg_m,cnt>=2),directed=F)
+g_f = graph_from_data_frame(subset(edg_f,cnt>=2),directed=F)
+
 transitivity(g_m,type = 'localaverage') 
 transitivity(g_f,type = 'localaverage') 
 
@@ -105,9 +108,6 @@ length(unique(edg_f[,2]))
 
 col1 = rgb(224,238,212,maxColorValue = 255)
 col2 = rgb(220,207,232,maxColorValue = 255)
-
-g_m = graph_from_data_frame(subset(edg_m,cnt>=2),directed=F)
-g_f = graph_from_data_frame(subset(edg_f,cnt>=2),directed=F)
 
 deg_m = degree_distribution(g_m)
 deg_m_p = which(deg_m > 0) - 1
@@ -136,9 +136,8 @@ cat('female hubs: ',paste0(tab_f_f[1:5],collapse=' '),'\n',sep='')
 
 #### page rank
 
-
-V(g_m)[which(rank(-page_rank(g_m)[[1]]) == 2)]
-V(g_f)[which(rank(-page_rank(g_m)[[1]]) == 2)]
+V(g_m)[which(rank(-page_rank(g_m)[[1]]) %in% 2:6)]
+V(g_f)[which(rank(-page_rank(g_m)[[1]]) %in% 2:6)]
 
 
 ### clustering
