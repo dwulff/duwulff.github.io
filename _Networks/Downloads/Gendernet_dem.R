@@ -2,7 +2,7 @@
 #      READ AND DECRYPT
 # --------------------------------------------------------------------
 
-PASSWORD = 'networksarecool' # networks are what
+PASSWORD = '' # networks are what
 
 # ---- load packages
 if(!require(devtools)) install.packages('devtools') ; require(devtools)
