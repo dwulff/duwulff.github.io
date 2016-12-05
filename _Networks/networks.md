@@ -106,6 +106,8 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 <a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/RepresentationOf/" ><img src="/images/mysteryBox.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r8_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Networks/Downloads/Gendernet_dem.R" ><img src="/images/Rlogo.png" alt="Bild" height="18"></a><br>
 
 <i>Kurzreferate</i> BEAGLE - PageRank - Word2Vec
 
