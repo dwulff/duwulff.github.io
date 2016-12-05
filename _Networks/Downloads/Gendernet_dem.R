@@ -134,6 +134,13 @@ tab_f_f = names(tab_f_f)[order(tab_f_f,decreasing=T)]
 cat('male hubs: ',paste0(tab_m_m[1:5],collapse=' '),'\n',sep='')
 cat('female hubs: ',paste0(tab_f_f[1:5],collapse=' '),'\n',sep='')
 
+#### page rank
+
+
+V(g_m)[which(rank(-page_rank(g_m)[[1]]) == 2)]
+V(g_f)[which(rank(-page_rank(g_m)[[1]]) == 2)]
+
+
 ### clustering
 
 cl_m = cluster_walktrap(g_m)$membership
@@ -147,7 +154,6 @@ cl_f = cluster_louvain(g_f)$membership
 
 for(i in 1:max(cl_m)) cat('cluster ',i,': ',paste0(names(V(g_m)[cl_m == i]),collapse=' '),'\n',sep='')
 for(i in 1:max(cl_f)) cat('cluster ',i,': ',paste0(names(V(g_f)[cl_f == i]),collapse=' '),'\n',sep='')
-
 
 
 
