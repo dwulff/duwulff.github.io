@@ -102,6 +102,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/Haldane2012DogAndFrisbee.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/AikmanEtAl2014SimplicityVersusComplexityInFinancialRegulation.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q8_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r8_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- AikmanEtAl --->
 <!--- Dog and Frisbee --->
