@@ -121,8 +121,4 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 20.12. Medical Decision Analysis
 
 <i>Materialien</i>
-<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt1.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt2.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt3.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/DetskyEtAl1997MedicalDecisionAnalysis_Pt4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
