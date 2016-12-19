@@ -111,21 +111,23 @@ In dieser Sitzung besprechen wir u.a. die Erhebung mentaler Lexicons der Teilneh
 
 <i>Kurzreferate</i> BEAGLE - PageRank - Word2Vec
 
-### 12.12. The Mental Lexicon Across The Lifespan
+### 12.12. - Termin fällt aus -
+<!----
+The Mental Lexicon Across The Lifespan
 In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen Lexicons der Teilnehmer.
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/WulffEtAl2016AgingLexicon_final.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q9_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+--->
 
-<i>Kurzreferate</i> tba
 
 ### 19.12. Neuronale Netzwerke
 
 <i>Materialien</i>
-<a href="{{site.url}}/_Networks/Literature/AchardEtAl2006SmallWorldFunctionalBrainNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<!----<a href="{{site.url}}/_Networks/Literature/AchardEtAl2006SmallWorldFunctionalBrainNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>--->
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
-<i>Kurzreferate</i> tba
+
