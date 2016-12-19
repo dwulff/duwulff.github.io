@@ -129,5 +129,5 @@ In dieser Sitzung besprechen wir u.a. die Ergebnisse der Erhebung des mentalen L
 <!----<a href="{{site.url}}/_Networks/Literature/AchardEtAl2006SmallWorldFunctionalBrainNetwork.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>--->
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/q10_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
-
+<a href="/r10_networks/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
