@@ -7,7 +7,7 @@ goodchoices = read.table('_Goodchoices/GoodchoicesSurveys.txt',header=F,sep='\n'
 networks    = read.table('_Networks/NetworksSurveys.txt',header=F,sep='\n')[,1]
 
 #tab = paste0(networks[8],' (Antworten)')
-tab = paste0(goodchoices[8],' (Antworten)')
+tab = paste0(goodchoices[9],' (Antworten)')
 
 
 gs = gs_title(tab)
