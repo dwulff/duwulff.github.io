@@ -125,7 +125,3 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/r10_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- Medical Decision Analysis --->
-
-
-
- --->
