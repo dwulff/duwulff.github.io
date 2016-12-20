@@ -118,7 +118,14 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <!--- JennyOnDepression --->
 <!--- Marewski  --->
 
-### 20.12. Medical Decision Analysis
+### 20.12. Open questions
 
 <i>Materialien</i>
 <a href="/q10_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/r10_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
+
+<!--- Medical Decision Analysis --->
+
+
+
+ --->
