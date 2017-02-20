@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Was sind gute Entscheidungen
-permalink: /Goodchoices/
+title: Natural language as a tool in psychological research
+permalink: /Naturallanguage/
 ---
 
 Seminar, Dienstags, 14.15-15.45, Seminarraum 11
@@ -25,11 +25,11 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation and the 
 
 <i>Materialien</i>
 
-### 14.03. Zipfian
+### 14.03. Scraping
 
 <i>Materialien</i>
 
-### 21.03. Emojis & semantic space
+### 21.03. Emoji-Zipfian
 
 <i>Materialien</i>
 
