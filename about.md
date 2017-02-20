@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a researcher at the Center for <a href="https://psycho.unibas.ch/en/department/people/profile/person/wulff/">Center for Cognitive and Decision Science (CDS)</a>, University of Basel, Switzerland, and an adjunct researcher at the <a href="https://www.mpib-berlin.mpg.de/en/staff/dirk-wulff">Center for Adaptive Rationality (ARC)</a>, Max Planck Institute for Human, Germany.
+I am a researcher at the Center for <a href="https://psycho.unibas.ch/en/department/people/profile/person/wulff/">Center for Cognitive and Decision Science (CDS)</a>, University of Basel, Switzerland, and an adjunct researcher at the <a href="https://www.mpib-berlin.mpg.de/en/staff/dirk-wulff">Center for Adaptive Rationality (ARC)</a>, Max Planck Institute for Human Development, Germany.
 
 My research broadly focuses on modeling human cognition. More specifically, I am interested in decisions from experience and decisions under uncertainty, semantic networks and their development across the life span, search processes in external and internal environments, and hand- and mouse-tracking methodologies. 
 
