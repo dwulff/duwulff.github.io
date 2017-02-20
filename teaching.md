@@ -10,3 +10,6 @@ permalink: /teaching/
 #### <a href="{{ site.baseurl }}/Goodchoices/" >Seminar: Was sind gute Entscheidungen?</a>
 <a href="{{ site.baseurl }}/Goodchoices/" ><img src="/images/Goodchoices.png" alt="Bild"/></a>
 
+#### <a href="{{ site.baseurl }}/Naturallanguage/" >Seminar: Natural language processing?</a>
+<a href="{{ site.baseurl }}/Naturallanguage/" ><img src="/images/Emojis.png" alt="Bild"/></a>
+
