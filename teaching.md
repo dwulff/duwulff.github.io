@@ -9,6 +9,7 @@ permalink: /teaching/
 #### <a href="{{ site.baseurl }}/Naturallanguage/" >Seminar: Natural language processing?</a>
 <a href="{{ site.baseurl }}/Naturallanguage/" ><img src="/images/Emojis.png" alt="Bild"/></a>
 
+
 ### Autumn 2017
 
 #### <a href="{{ site.baseurl }}/Networks/" >Seminar: Netzwerke in der Psychologie</a>
