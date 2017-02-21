@@ -15,17 +15,18 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ## Syllabus
 
 ### 21.02. Overview & R
+
 <i>Assignment</i>
 <a href="/q0_naturallanguage/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Materials</i> 
-<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf " ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/YaRrr_Book.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 28.02. Twitter
 
-<i>Assignment</i>
+<i>Assignment</i> tba
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/Burghardt2015TwitterIntro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
@@ -33,6 +34,8 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 07.03. - no class -
 
 ### 14.03. Scraping
+
+<i>Assignment</i> tba
 
 <i>Materials</i>
 <a href="{{site.url}}/_Naturallanguage/Literature/how_the_internet_works.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
