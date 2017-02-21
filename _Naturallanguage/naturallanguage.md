@@ -24,16 +24,15 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 28.02. Twitter
 
 <i>Assignment</i>
-<a href="/q0_naturallanguage/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/Burghardt2015TwitterIntro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
-
 
 ### 07.03. - no class -
 
 ### 14.03. Scraping
 
+<i>Materials</i>
 <a href="{{site.url}}/_Naturallanguage/Literature/how_the_internet_works.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="https://en.wikipedia.org/wiki/World_Wide_Web" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
