@@ -53,8 +53,8 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-include: ['_Networks','_Goodchoices','_Networks/Surveys','_Networks/SurveyResults',
-'_Goodchoices/Surveys','_Goodchoices/SurveyResults']
+include: ['_Networks','_Goodchoices','_Naturallanguage','_Networks/Surveys','_Networks/SurveyResults',
+'_Goodchoices/Surveys','_Goodchoices/SurveyResults','_Naturallanguage/Surveys','_Naturallanguage/Uploads']
 
 
 permalink: /:title/
