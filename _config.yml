@@ -54,7 +54,8 @@ baseurl: ""
 #
 
 include: ['_Networks','_Goodchoices','_Naturallanguage','_Networks/Surveys','_Networks/SurveyResults',
-'_Goodchoices/Surveys','_Goodchoices/SurveyResults','_Naturallanguage/Surveys','_Naturallanguage/Uploads']
+'_Goodchoices/Surveys','_Goodchoices/SurveyResults','_Naturallanguage/Surveys','_Naturallanguage/Uploads',
+'_Naturallanguage/Assignments']
 
 
 permalink: /:title/

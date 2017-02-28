@@ -20,7 +20,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/q0_naturallanguage/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <i>Materials</i> 
-<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf " ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/YaRrr_Book.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_1.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/R_intro_I.R" ><img src="/images/Rlogo_sm.png" alt="RLogo" height="18" width = "17"/></a>
@@ -29,6 +29,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 28.02. Twitter
 
 <i>Assignment</i> tba
+<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf" ><img src="/images/Assignment.png" alt=AssignmentIcon" height="18"/></a>
+<a href="/u0_naturallanguage/" ><img src="/images/Upload.png" alt="UploadIcon" height="18"/></a>
+
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/Burghardt2015TwitterIntro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
