@@ -29,7 +29,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 28.02. Twitter
 
 <i>Assignment</i>
-<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_1.pdf" ><img src="/images/AssignmentIcon.png" alt=AssignmentIcon" height="18"/></a>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_1.pdf" ><img src="/images/AssignmentIcon.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u0_naturallanguage/" ><img src="/images/Upload.png" alt="UploadIcon" height="18"/></a>
 
 
