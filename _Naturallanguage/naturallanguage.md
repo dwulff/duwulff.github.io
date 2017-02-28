@@ -35,6 +35,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/Burghardt2015TwitterIntro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_2.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 07.03. - no class -
 
