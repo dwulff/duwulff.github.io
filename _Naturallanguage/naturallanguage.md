@@ -28,10 +28,13 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 28.02. Twitter
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_1_+_solution.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_1.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
-<a href="/u0_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
-
+<a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/Burghardt2015TwitterIntro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
@@ -39,9 +42,12 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 07.03. - no class -
 
-### 14.03. Scraping
+### 14.03. Web Scraping
 
-<i>Assignment</i> tba
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_2.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u2_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
 
 <i>Materials</i>
 <a href="{{site.url}}/_Naturallanguage/Literature/how_the_internet_works.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
@@ -51,7 +57,13 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 <!--- rvest package --->
 
-### 21.03. Emoji-Zipfian
+### 21.03. Emoji-Zipfian (& Regular Expressions)
+
+<i>Assignment</i> tba
+
+<i>Materials</i>
+<a href="{{site.url}}/_Naturallanguage/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
 ### 28.03. - no class -
 
