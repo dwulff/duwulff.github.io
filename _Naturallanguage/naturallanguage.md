@@ -29,7 +29,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 28.02. Twitter
 
 <i>Solution</i>
-<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_1_+_solution.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_1_+_solution.pdf" ><img src="/images/Solution.png" alt="AssignmentIcon" height="18"/></a>
 
 
 <i>Assignment</i>
@@ -54,7 +54,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="https://en.wikipedia.org/wiki/World_Wide_Web" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_3.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-
 
 <!--- rvest package --->
 
