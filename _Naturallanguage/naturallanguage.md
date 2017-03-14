@@ -53,6 +53,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Literature/how_the_internet_works.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="https://en.wikipedia.org/wiki/World_Wide_Web" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
 <a href="https://en.wikipedia.org/wiki/HTML" ><img src="/images/Wiki.png" alt="WikiIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_3.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 
 <!--- rvest package --->
