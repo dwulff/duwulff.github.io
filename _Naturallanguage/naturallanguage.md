@@ -60,7 +60,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <!--- http://unicode.org/emoji/charts/full-emoji-list.html --->
 
 
-### 21.03. Emoji-Zipfian (& Regular Expressions)
+### 21.03. Emoji-Zipfian
 
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_3.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
@@ -76,7 +76,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 28.03. - no class -
 
-### 04.04. Emoji space (& Latent Semantic Analysis)
+### 04.04. Emoji space
 
 <i>Assignment</i> tba
 
@@ -86,11 +86,11 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <!--- 
 <!--- plus clustering, i.e., identification of optimistic emojis --->
 
-### 11.04. Sentiment analysis
+### 11.04. Text processing
 
-### 18.04. tba
+### 18.04. Emoji-text space 
 
-### 25.04. tba
+### 25.04. Sentiment analysis
 
 ### 02.05. tba
 
