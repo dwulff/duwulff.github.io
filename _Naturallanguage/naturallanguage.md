@@ -62,11 +62,17 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 21.03. Emoji-Zipfian (& Regular Expressions)
 
-<i>Assignment</i> tba
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_3.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u3_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
 
 <i>Materials</i>
 <a href="{{site.url}}/_Naturallanguage/Literature/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<!--- http://www.rexegg.com/regex-quickstart.html --->
 
 ### 28.03. - no class -
 
