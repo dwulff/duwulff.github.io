@@ -71,6 +71,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Literature/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://www.dropbox.com/s/0q83n0xmzl3j4zi/proper_emoji_ids.txt?dl=0" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
 
 <!--- http://www.rexegg.com/regex-quickstart.html --->
 
