@@ -31,7 +31,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Solution</i>
 <a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_1_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
-
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_1.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
@@ -44,10 +43,12 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 14.03. Web Scraping
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_2_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_2.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u2_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
-
 
 <i>Materials</i>
 <a href="{{site.url}}/_Naturallanguage/Literature/how_the_internet_works.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
@@ -56,19 +57,27 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_3.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <!--- rvest package --->
+<!--- http://unicode.org/emoji/charts/full-emoji-list.html --->
+
 
 ### 21.03. Emoji-Zipfian (& Regular Expressions)
 
 <i>Assignment</i> tba
 
 <i>Materials</i>
-<a href="{{site.url}}/_Naturallanguage/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Naturallanguage/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
 ### 28.03. - no class -
 
-### 04.04. Emoji space
+### 04.04. Emoji space (& Latent Semantic Analysis)
 
+<i>Assignment</i> tba
+
+<i>Materials</i> 
+<a href="{{site.url}}/_Naturallanguage/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+
+<!--- 
 <!--- plus clustering, i.e., identification of optimistic emojis --->
 
 ### 11.04. Sentiment analysis
