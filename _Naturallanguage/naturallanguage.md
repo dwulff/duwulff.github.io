@@ -83,7 +83,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Assignment</i> tba
 
 <i>Materials</i> 
-<a href="{{site.url}}/_Naturallanguage/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
 
 <!--- plus clustering, i.e., identification of optimistic emojis --->
