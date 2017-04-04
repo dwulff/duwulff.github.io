@@ -72,29 +72,33 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Literature/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="https://www.dropbox.com/s/0q83n0xmzl3j4zi/proper_emoji_ids.txt?dl=0" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
+<a href="https://www.dropbox.com/s/14pc7g6uuv5b1n3/advancedEmojiList.RDS?dl=0" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
 
 <!--- http://www.rexegg.com/regex-quickstart.html --->
 
 ### 28.03. - no class -
 
-### 04.04. Emoji space
+### 04.04. Pimp my streamer
 
-<i>Assignment</i> tba
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_4.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u4_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
+	
+### 11.04. Emoji space
 
+<i>Materials</i> 
+<a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <!--- plus clustering, i.e., identification of optimistic emojis --->
 
-### 11.04. Text processing
+### 18.04. Text processing
 
-### 18.04. Emoji-text space 
+### 25.04. Emoji-text space
 
-### 25.04. Sentiment analysis
-
-### 02.05. tba
+### 02.05. Sentiment analysis
 
 ### 09.05. tba
 
