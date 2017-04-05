@@ -64,7 +64,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 21.03. Emoji-Zipfian
 
 <i>Solution</i>
-<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_3_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_3_+_Solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
 
 <i>Assignment</i>
