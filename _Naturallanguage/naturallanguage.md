@@ -64,7 +64,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 ### 21.03. Emoji-Zipfian
 
 <i>Solution</i>
-<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_3_+_Solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_3_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
 
 <i>Assignment</i>
@@ -83,6 +83,10 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 04.04. Pimp my streamer
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_4_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_4.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u4_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
@@ -91,7 +95,12 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_5.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 	
-### 11.04. Emoji space
+### 11.04. Emoji Space
+
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_5.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u5_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
 
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
