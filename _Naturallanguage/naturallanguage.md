@@ -101,18 +101,20 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_5.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u5_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
-
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+
 <!--- plus clustering, i.e., identification of optimistic emojis --->
 
-### 18.04. Text processing
+### 18.04. Emoji Space
 
-### 25.04. Emoji-text space
+### 25.04. Text processing
 
-### 02.05. Sentiment analysis
+### 02.05. Emoji-text space
 
-### 09.05. tba
+### 09.05. Sentiment analysis
 
 ### 16.05. tba
 
