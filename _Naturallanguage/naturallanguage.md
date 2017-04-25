@@ -108,13 +108,22 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 <!--- plus clustering, i.e., identification of optimistic emojis --->
 
-### 18.04. Emoji Space
+### 18.04. - no class -
 
-### 25.04. Text processing
+### 25.04. Emoji Space 2.0
 
-### 02.05. Emoji-text space
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_6.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u6_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
-### 09.05. Sentiment analysis
+<i>Materials</i> 
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_7.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/stopwords_en_tartarus.txt" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
+
+
+### 02.05. Sentiment analysis
+
+### 09.05. tba
 
 ### 16.05. tba
 
