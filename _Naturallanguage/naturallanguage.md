@@ -121,9 +121,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/stopwords_en_tartarus.txt" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
 
 
-### 02.05. Sentiment analysis
+### 02.05. word2vec
 
-### 09.05. tba
+### 09.05. Sentiment analysis
 
 ### 16.05. tba
 
