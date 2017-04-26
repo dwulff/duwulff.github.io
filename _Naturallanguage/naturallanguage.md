@@ -119,6 +119,8 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/u6_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
 <i>Materials</i> 
+<a href="{{site.url}}/_Naturallanguage/Literature/word2vec_a.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/word2vec_b.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_7.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Downloads/stopwords_en_tartarus.txt" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
 
