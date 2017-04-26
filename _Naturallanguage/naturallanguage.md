@@ -86,7 +86,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Solution</i>
 <a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_4_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
-
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_4.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u4_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
@@ -96,6 +95,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 	
 ### 11.04. Emoji Space
+
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_5_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_5.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
