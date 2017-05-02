@@ -114,6 +114,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 25.04. Emoji Space 2.0
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_6_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_6.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u6_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
@@ -126,12 +129,22 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 02.05. word2vec
 
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_7.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u7_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/word2vec_a.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/word2vec_b.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_8.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 
 ### 09.05. Sentiment analysis
+
+<i>Materials</i> 
+<a href="{{site.url}}/_Naturallanguage/Literature/GoEtAl2009DistantSentiment.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/vader.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+
 
 ### 16.05. tba
 
