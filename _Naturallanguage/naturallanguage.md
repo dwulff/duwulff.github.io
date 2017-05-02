@@ -127,7 +127,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/stopwords_en_tartarus.txt" ><img src="/images/txtIcon.png" alt="txtIcon" height="18"/></a>
 
 
-### 02.05. word2vec
+### 02.05. Emoji Space 3.0
 
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_7.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
