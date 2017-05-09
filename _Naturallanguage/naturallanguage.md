@@ -139,7 +139,10 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_8.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 
-### 09.05. Emoji sentiment
+### 09.05. Sentiment analyzer
+
+<i>Project assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_9.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_8.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
@@ -149,13 +152,10 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Literature/GoEtAl2009DistantSentiment.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/vader.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
-### 16.05. Sentiment analyzer
+### 16.05. Your Project
 
-<i>Project assignment</i>
-<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_9.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<!---http://alt.qcri.org/semeval2016/task4/index.php?id=data-and-tools--->
 
-<!---http://www.sananalytics.com/lab/twitter-sentiment/ --->
+### 23.05. Your Project
 
-### 23.05. Own project
-
-### 30.05. Own project
+### 30.05. Wrap Up
