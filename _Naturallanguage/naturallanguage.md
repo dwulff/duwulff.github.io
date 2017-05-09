@@ -129,6 +129,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 02.05. Emoji Space 3.0
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_7_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_7.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u7_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
@@ -139,10 +142,10 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_8.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 
-### 09.05. Sentiment analyzer
+### 09.05. Sentiment Analyzer
 
 <i>Project assignment</i>
-<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_9.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_Project.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_8.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
