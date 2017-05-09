@@ -154,6 +154,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Materials</i> 
 <a href="{{site.url}}/_Naturallanguage/Literature/GoEtAl2009DistantSentiment.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/vader.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_9.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ~ Your Project ~
 
