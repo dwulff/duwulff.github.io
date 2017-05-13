@@ -147,6 +147,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Project assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_Project.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/Assignment_8_+_solution.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments/Assignment_8.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u8_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
