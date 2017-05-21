@@ -4,7 +4,7 @@ title: Software
 permalink: /software/
 ---
 
-<a href="https://www.r-project.org/" ><img src="/images/python.png" alt="Bild" height="60"></a><br>
+<a href="https://www.r-project.org/" ><img src="/images/python.ico" alt="Bild" height="60"></a><br>
 <a href="https://github.com/dwulff/choicepp"><b>pylap</b></a>: A python-based GUI for spell-checking, stemming, and lemmatisation. Available on <a href="https://github.com/dwulff/pylap">GitHub</a>. <br>
 
 <a href="https://www.r-project.org/" ><img src="/images/Rlogo.png" alt="Bild" height="60"></a><br>
