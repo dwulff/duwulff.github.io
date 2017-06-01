@@ -6,7 +6,7 @@ permalink: /publications/
 
 ### In press & submitted
 
-Haslbeck, J. M. B., & Wulff, D. U. (subm). Estimating the Number of clusters via normalized cluster instability. In review at <i>Biometrika</i>. <a href="http://arxiv.org/pdf/1608.07494v1.pdf">[pdf]</a>
+Haslbeck, J. M. B., & Wulff, D. U. (subm). Estimating the Number of clusters via normalized cluster instability. In review. <a href="http://arxiv.org/pdf/1608.07494v1.pdf">[pdf]</a>
 
 Wulff, D. U., Mergenthaler, M., & Hertwig, R. (in press). A meta-analytic review of two modes of learning and the description‒experience gap. <i>Psychological Bulletin</i>
 
@@ -29,7 +29,6 @@ Hertwig, R., & Wulff, D. (2014). Risikoentscheidungen: Die Kluft zwischen Erfahr
 Wulff, D. U., Hills, T. T., Lachman, M., & Mata, R. (2016). The aging lexicon: Differences in the semantic representation of younger and older adults? In Papafragou, A., Grodner, D., Mirman, D., & Trueswell, J.C. (Eds.) (2016). <i>Proceedings of the 38th Annual Conference of the Cognitive Science Society</i>. Austin, TX: Cognitive Science Society. [[pdf]](/Papers/WulffEtAl2016AgingLexicon_final.pdf)
 
 Wulff, D. U., Hills, T. T., & Hertwig, R. (2013). Worm holes in memory: Is memory one representation or many? In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), <i>Cooperative minds: Social interaction and group dynamics. Proceedings of the 35th Annual Conference of the Cognitive Science Society</i> (pp. 3817-3822). Austin, TX: Cognitive Science Society. [[pdf]](/Papers/WulffHillsHertwig2013WormholesInMemory.pdf)
-
 
 Wulff, D. U., Hills, T. T., & Hertwig, R. (2012). Adaptive information search and decision making over single and repeated plays. In N. Miyake, D. Peebles, & R. P. Cooper (Eds.), <i>Building bridges across cognitive sciences around the world: Proceedings of the 34th Annual Conference of the Cognitive Science Society</i> (pp. 1167-1172). Austin, TX: Cognitive Science Society. [[pdf]](/Papers/WulffHillsHertwig2012AdaptiveInfoSearchDfE.pdf)
 
