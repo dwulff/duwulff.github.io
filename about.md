@@ -14,7 +14,7 @@ For my publications go to: <a href="https://dwulff.github.io/publications/">Publ
 
 ### CV
 
-Download my CV click [here](mailto:dirk.wulff@unibas.ch)
+Download my CV click [here](/Downloads/duw - curriculum vitae - jun 2017.pdf)
 
 ### Contact
 Dr. Dirk U. Wulff
