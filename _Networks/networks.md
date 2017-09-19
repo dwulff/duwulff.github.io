@@ -108,8 +108,8 @@ a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSma
 <!---
 
 
-<!--- read von Neumann & Morgenstern --->
-<!--- read von Luce Raiffa --->
+read von Neumann & Morgenstern
+read von Luce Raiffa
 
 ### 26.09. Overview
 <i>Materialien</i>
