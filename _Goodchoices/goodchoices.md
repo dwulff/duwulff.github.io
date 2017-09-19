@@ -23,10 +23,6 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<!--- next year read original Bernoulli article: Bernoulli 1954 Econometrika --->
-<!--- also consider Jeremy Bentham 1798 --->
-<!--- also consider reading Bayes original Text --->
-
 <i>Fragen</i>
 1. Wer sind Blaise Pascal und Pierre de Fermat?
 2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit?
@@ -40,8 +36,6 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<!--- read von Neumann & Morgenstern --->
-<!--- read von Luce Raiffa --->
 
 <i>Fragen</i>
 1. Wer ist Daniel Bernoulli?
@@ -52,6 +46,9 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 ### 17.10. - Termin fällt aus -
 
 ### 24.10. The Beginnings III
+
+<!--- also consider Jeremy Bentham 1798 --->
+<!--- also consider reading Bayes original Text --->
 
 <i>Materialien</i> tba
 
@@ -83,33 +80,37 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 14.11. - Termin fällt aus -
 
-### 21.11. - Ecological Rationality
+### 21.11. Ecological Rationality
 
 <i>Materialien</i> tba
 
 <i>Fragen</i> tba
 
-### 28.11. - tba
+### 28.11. tba
 
 <i>Materialien</i> tba
 
 <i>Fragen</i> tba
 
-### 05.12. - tba
+### 05.12. tba
 
 <i>Materialien</i> tba
 
 <i>Fragen</i> tba
 
-### 12.12. - tba
+### 12.12. tba
 
 <i>Materialien</i> tba
 
 <i>Fragen</i> tba
 
-### 19.12. - Klausur
+### 19.12. Klausur
 
 <!---
+
+read von Neumann & Morgenstern
+read von Luce Raiffa
+
 
 read von Neumann & Morgenstern
 read von Luce Raiffa

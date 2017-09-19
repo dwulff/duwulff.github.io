@@ -11,8 +11,105 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 
 ## Semesterplan
 
+### 19.09. Overview
+<i>Materialien</i>
+<a href="/q0_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+### 26.09. Introduction
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/Barabasi2012NetworkTakeover.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/WattsStrogatz1998CollectiveDynamicsSmallWorld.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Was ist <i>complexity science</i>, was <i>dynamical systems</i>?
+2. Was ist der <i>clustering coefficient</i> eines Netzwerks, was die <i>shortest path length</i>?
+3. Was sind die Hauptergebnisse von Watts and Strogatz?
+4. Was ist die Bedeutung und Relevanz von <i>small-worlds networks</i>?
+
+### 03.10. - Termin fällt aus -
+
+### 10.10. A small world
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Was ist eine Small-World nach Milgram und Dodds im Vergleich zu Watts & Strogatz?
+2. Wie funktioniert die Methode von Milgram und Dodds et al.? 
+3. Was moderiert die durchschnittliche Distanz zwischen Individuen?
+4. Wie würden die Ergebnisse von Milgram und Dodds et al. heute ausfallen?
+
+### 17.10. - Termin fällt aus -
+
+### 24.10. Social Influence
+
+<!--- also consider Jeremy Bentham 1798 --->
+<!--- also consider reading Bayes original Text --->
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 31.10. Health and Policy
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 07.11. Psychopathology I
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 07.11. Psychopathology II
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 07.11. Semantic Networks I
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 14.11. - Termin fällt aus -
+
+### 21.11. Semantic Networks II
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 28.11. Semantic Networks III
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 05.12. Neural Networks I
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 12.12. Neural Networks II
+
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 19.12. - Klausur
+
 <!---
 
+
+<!--- read von Neumann & Morgenstern --->
+<!--- read von Luce Raiffa --->
 
 ### 26.09. Overview
 <i>Materialien</i>
