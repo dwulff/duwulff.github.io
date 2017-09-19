@@ -8,7 +8,7 @@ Seminar, Dienstags, 14.15-15.45, Seminarraum 11
 
 ## Seminarablauf
 
-Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor.<b>Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.</b>
+Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor. <b>Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.</b>
 
 
 ## Semesterplan
@@ -111,8 +111,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!---
 
-<!--- read von Neumann & Morgenstern --->
-<!--- read von Luce Raiffa --->
+read von Neumann & Morgenstern
+read von Luce Raiffa
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/KerenTeigen2004YetAnotherLookAtTheHeuristicAndBiasesApproach.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -120,7 +120,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q3_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r3_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- read only CPT --->
+read only CPT
 
 
 
@@ -141,8 +141,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q5_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r5_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- Arkes et al? --->
-<!--- Simon (55) & Simon (83) ? --->
+Arkes et al?
+Simon (55) & Simon (83)
 
 ### 15.11. Less is more
 
@@ -151,7 +151,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q6_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r6_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- Gigerenzer Topics --->
+Gigerenzer Topics
 
 ### 22.11. - Termin fällt aus -
 
@@ -163,8 +163,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q7_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r7_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- Simsek --->
-<!--- Katsikopoulos et al  --->
+Simsek 
+Katsikopoulos et al 
 
 ### 06.12. Heuristics and Finance
 
@@ -174,8 +174,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q8_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r8_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- AikmanEtAl --->
-<!--- Dog and Frisbee --->
+AikmanEtAl
+Dog and Frisbee
 
 ### 13.12. Heuristics and Medicine
 
@@ -185,8 +185,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q9_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r9_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- JennyOnDepression --->
-<!--- Marewski  --->
+JennyOnDepression
+Marewski 
 
 ### 20.12. Open questions
 
@@ -194,9 +194,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="/q10_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r10_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-<!--- Medical Decision Analysis --->
-
-
+Medical Decision Analysis
 
 
 
