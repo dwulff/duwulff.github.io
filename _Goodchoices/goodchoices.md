@@ -10,12 +10,12 @@ Seminar, Dienstags, 14.15-15.45, Seminarraum 11
 
 Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses Seminar mit der philosophischen, ökonomischen und psychologischen Literatur zum Thema Rationalität. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor. <b>Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.</b>
 
-
 ## Semesterplan
 
 ### 19.09. Overview
 <i>Materialien</i>
 <a href="/q0_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
 <!--- <a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
 
 ### 26.09.  The Beginnings
