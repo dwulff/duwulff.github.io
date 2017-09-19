@@ -14,7 +14,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 ### 19.09. Overview
 <i>Materialien</i>
 
-<a href="/q0_networks" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- <a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
 
