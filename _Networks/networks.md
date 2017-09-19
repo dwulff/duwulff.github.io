@@ -3,14 +3,16 @@ layout: page
 title: Netzwerke in der Psychologie
 permalink: /Networks/
 ---
-Seminar, Montags, 14.15-15.45, Seminarraum 08
+Seminar, Dienstag, 16.15-17.45, Seminarraum 11
 
 ## Seminarablauf
 
-Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutzen von Netzwerken für Fragestellungen der Psychologie zu geben. Das Seminar wird die methodologischen und mathematischen Grundlagen von Netzwerken behandeln und Anwendungen in den Bereichen soziale Beziehungen, semantisches Gedächtnis, Psychopathologie, und neuronale Netze vorstellen. In jeder Sitzung werden ein oder zwei Zeitschriftenartikel (oder Buchkapitel) diskutiert. Zur Vorbereitung lesen die Teilnehmer bis <b>Freitag 20:00</b> vor der nächsten Sitzung die Literatur und reichen über diese Seite drei Verständnis- und drei kritische <b>Fragen</b> ein. Kritische Fragen sind jeweils kurz zu begründen. Zusätzlich wird jeder Teilnehmer im Laufe des Seminars mindestens ein <b>Kurzreferat</b> von 5 Minuten Länge halten (max. drei Folien oder Whiteboard). Weitere Kurzreferate ergeben sich aus dem Nichteinhalten der Freitag-20:00-Frist. Die Themen der Kurzreferate werden von mir spätestens 2 Wochen vor der jeweiligen Sitzung verteilt. Die Vorbereitung der Kurzreferate inklusive Literaturerecherche erfolgt eigenständig. Ich gebe jedoch gerne Hilfestellungen und stehe auch für Vorbesprechungen zur Verfügung. Darüberhinaus wird es begleitend praktische <b>Demonstrationen</b> geben. Ziel der Demonstrationen ist es die praktischen Aspekte der Erhebung, Analyse und Illustration von Netzwerken näher zu beleuchten. Die Datengrundlage dafür soll, Einverständis voraussgesetzt, von den Teilnehmern kommen. Die praktische Demonstrationen werden von mir durchgeführt und vorgestellt. Die <b>Anwesenheit</b> der Teilnehmer wird erwartet, aber nicht nicht überprüft. <b>Die Seminarleistung wird erbracht durch das Einreichen der zehn Fragen zu jedem Termin, das Halten eines Kurzreferats, und der Mitwirkung an den praktischen Demonstrationen (Einverständis voraussgesetzt).</b>
-
+Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutzen von Netzwerken für Fragestellungen der Psychologie zu geben. In jeder Sitzung werden hierzu jeweils ein oder zwei Zeitschriftenartikel (oder Buchkapitel) besprochen. Zur Vorbereitung lesen die Teilnehmer vor der nächsten Sitzung die Literatur und analysieren sie hinsichtlich 3-5 zentraler Fragen. Zu Beginn jeder Sitzung werden die Teilnehmer zufällig in Kleingruppen aufgeteilt, die in den ersten 45min der Sitzung jeweils eine der Fragen besprechen und für die anderen Teilnehmer aufbereiten. In den zweiten 45min stellen die Teilnehmer die aufgearbeiteten Inhalten in einer Kurzpräsentation von 5-10min Länge (max. 2-3 Folien) vor.<b>Die Seminarleistung wird durch das Bestehen einer Klausur am des Seminars erbracht. Die Teilnahme wird nicht überprüft.</b>
 
 ## Semesterplan
+
+<!---
+--->
 
 ### 26.09. Overview
 <i>Materialien</i>
