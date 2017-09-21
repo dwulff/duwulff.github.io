@@ -14,7 +14,7 @@ For my publications go to: <a href="https://dwulff.github.io/publications/">Publ
 
 ### CV
 
-Download my CV [here](/Downloads/duw - curriculum vitae - jun 2017.pdf)
+Download my CV [here](/Downloads/duw - curriculum vitae - Sep 2017.pdf)
 
 ### Contact
 Dr. Dirk U. Wulff
