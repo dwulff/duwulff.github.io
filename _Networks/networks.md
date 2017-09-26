@@ -12,9 +12,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 ## Semesterplan
 
 ### 19.09. Overview
-<i>Materialien</i>
-
-<a href="/q0_networks" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<i>Materialien</i> <a href="/q0_networks/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 
 <!--- <a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
 
@@ -28,7 +26,7 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 1. Was ist <i>complexity science</i>, was <i>dynamical systems</i>?
 2. Was ist der <i>clustering coefficient</i> eines Netzwerks, was die <i>shortest path length</i>?
 3. Was sind die Hauptergebnisse von Watts and Strogatz?
-4. Was ist die Bedeutung und Relevanz von <i>small-worlds networks</i>?
+4. Was ist die Bedeutung und Relevanz von <i>small-world networks</i>?
 
 ### 03.10. - Termin fällt aus -
 
