@@ -38,68 +38,101 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 
 <i>Fragen</i>
 1. Was ist eine Small-World nach Milgram und Dodds im Vergleich zu Watts & Strogatz?
-2. Wie funktioniert die Methode von Milgram und Dodds et al.? 
-3. Was moderiert die durchschnittliche Distanz zwischen Individuen?
+2. Wie funktioniert die Methode von Milgram und Dodds et al.? <a href="{{site.url}}/_Networks/Presentations/Präsentation_Milgram Methode.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+3. Was moderiert die durchschnittliche Distanz zwischen Individuen? <a href="{{site.url}}/_Networks/Presentations/Moderatoren der durchschnittlichen Distanz.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 4. Wie würden die Ergebnisse von Milgram und Dodds et al. heute ausfallen?
 
 ### 17.10. - Termin fällt aus -
 
-### 24.10. Social Influence
+### 24.10. Social Influence - Network distance
 
-<!--- also consider Jeremy Bentham 1798 --->
-<!--- also consider reading Bayes original Text --->
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/MoussaidEtAl2017PNAS.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/ColemanEtAl1957DiffusionOfInnovationAmongPhysicians.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Materialien</i> tba
+<i>Fragen</i>
+1. Was ist Network propagation aka diffusion und welche realen Prozesse können damit abgebildet werden?
+2. Was sind die Hauptbefunde von Coleman et al. und was schließen sie daraus?
+3. Was sind die Hauptbefunde von Moussaid et al. und was schließen sie daraus?
+4. Wie gut ergänzen sich Coleman et al. und Moussaid et al.?
+
+<i>Begin demo</i> Social network centrality + XXX
+
+### 31.10. Social Influence - Network structure
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/SecaraEtAl2016SocialNetworkStructure.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/ComanEtAl2016MnemonicConvergence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Wie funktioniert Community/Clique detection und wozu ist das gut?
+2. Was sind die Hauptbefunde von Secara et al. und was schließen sie daraus?
+3. Was sind die Hauptbefunde von Coman et al. und was schließen sie daraus?
+4. Wie gut ergänzen sich Secara et al. und Coman et al.?
+
+### 02.11. Recommended event
+
+<b>SWE Colloquium, 13-14h, Seminarraum 8</b>
+Jonas M. B. Haslbeck über den Nutzen von Netzwerken für u.a. die Diagnose klinischen Störungen. 
+
+### 07.11. Psychopathology & Networks
+
+<i>Materialien</i> 
+<a href="{{site.url}}/_Networks/Literature/BorsboomCramer2013AnnualReview.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Was sind closeness, betweenness, degree, and eigenvector centrality?
+2. Wie sieht das klassische Krankheitsmodell nach DSM & ICD aus?
+3. Wie sieht das Krankheitsmodell von Borsboom & Cramer aus?
+4. Welche Konsequenzen ergeben sich aus einem netzwerkbasierten Krankheitsmodell?
+
+### 07.11. Psychopathology & Neural networks
+
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/Stam2014NeuroDisease&Network.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
-### 31.10. Health and Policy
+### 07.11. Neural networks & Efficiency
 
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 07.11. Psychopathology I
-
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 07.11. Psychopathology II
-
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 07.11. Semantic Networks I
-
-<i>Materialien</i> tba
+<i>Materialien</i> 
+<a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/Marteijn2013Brain&Hubs.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
 ### 14.11. - Termin fällt aus -
 
-### 21.11. Semantic Networks II
+### 21.11. Artificial neural networks
 
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 28.11. Semantic Networks III
-
-<i>Materialien</i> tba
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/BasheerHajmeer2000ANNIntro.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
-### 05.12. Neural Networks I
+<i>Begin demo</i> Semantic networks
 
-<i>Materialien</i> tba
+### 28.11. Semantic Networks
+
+<i>Materialien</i> 
+<a href="{{site.url}}/_Networks/Literature/Steyvers & Tenenbaum (2004) - The large-scale structure of semantic netowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/MoraisEtAl2013SnowBall.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
-### 12.12. Neural Networks II
+### 05.12. Growing semantic networks
 
-<i>Materialien</i> tba
+<i>Materialien</i> 
+<a href="{{site.url}}/_Networks/Literature/BarabasiAlbert1999PreferentialAttachment.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i> tba
+
+### 12.12. Searching semantic networks
+
+<i>Materialien</i> 
+<a href="{{site.url}}/_Networks/Literature/GriffithEtAl2007GoogleAndTheMind.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
