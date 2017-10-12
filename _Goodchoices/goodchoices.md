@@ -36,7 +36,6 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-
 <i>Fragen</i>
 1. Wer ist Daniel Bernoulli? <a href="{{site.url}}/_Networks/Presentations/Wer war Daniel Bernoulli.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 2. Was ist das St. Petersburg paradox?
@@ -52,7 +51,7 @@ Frank Plumpton Ramsey
 <!--- also consider Jeremy Bentham 1798 --->
 <!--- also consider reading Bayes original Text --->
 
-<i>Materialien</i> (Focus on 2-4.1)
+<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Ramsay1926Truth&Probability_short" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
