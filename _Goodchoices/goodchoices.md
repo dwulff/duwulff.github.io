@@ -18,7 +18,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <!--- <a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
 
-### 26.09.  The Beginnings
+### 26.09.  The Beginnings - Pascal & Fermat
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -31,7 +31,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 03.10. - Termin fällt aus -
 
-### 10.10. The Beginnings II
+### 10.10. The Beginnings - Bernoulli
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -45,26 +45,49 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 17.10. - Termin fällt aus -
 
-### 24.10. The Beginnings III
+Frank Plumpton Ramsey
+
+### 24.10. The Beginnings - Ramsay
 
 <!--- also consider Jeremy Bentham 1798 --->
 <!--- also consider reading Bayes original Text --->
 
-<i>Materialien</i> tba
+<i>Materialien</i> (Focus on 2-4.1)
+<a href="{{site.url}}/_Goodchoices/Literature/Ramsay1926Truth&Probability_short" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i>
+1. Wer sind Frank Plumpton Ramsey und John Maynard Keynes?
+2. Was umfasst Ramsey's Begriff des beliefs?
+3. Was ist die logic of consistency, was die logic of truth?
+4. Was sind gute Entscheidungen nach Ramsey?
 
-### 31.10. The Neo-Bernoullian approach
+### 31.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern
 
-<i>Materialien</i> tba
+<!--- also consider Jeremy Bentham 1798 --->
+<!--- also consider reading Bayes original Text --->
 
-<i>Fragen</i> tba
+<i>Materialien</i> (Focus on 2-4.1)
+<a href="{{site.url}}/_Goodchoices/Literature/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-### 07.11. Long and Short Run Decision Making
+<i>Fragen</i>
+1. Wer waren John von Neumann und Oskar Morgenstern?
+2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?
+3. Was sind die Axiome und welche Rolle spielen sie?
+4. Was sind gute Entscheidungen nach van Neumann und Morgenstern?
 
-<i>Materialien</i> tba
 
-<i>Fragen</i> tba
+### 07.11. Heuristics and Biases
+
+<i>Materialien</i> 
+<a href="{{site.url}}/_Goodchoices/Literature/Tversky&Kahneman1973Heuristics&Biases.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/ThalerSunstein2003LibertarianPaternalism.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i> 
+1. Wer sind Daniel Kahneman, Amos Tversky, Richard Thaler, & Cass Sunstein?
+2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
+3. Was ist Liberal Paternalism?
+4. Was sind gute Entscheidungen nach den Tversky und Kahneman, sowie Thaler und Sunstein?
+
 
 ### 07.11. Bounded Rationality
 
@@ -72,7 +95,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 <i>Fragen</i> tba
 
-### 07.11. Less is more
+### 07.11. tba
 
 <i>Materialien</i> tba
 
@@ -80,7 +103,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 14.11. - Termin fällt aus -
 
-### 21.11. Ecological Rationality
+### 21.11. tba
 
 <i>Materialien</i> tba
 
