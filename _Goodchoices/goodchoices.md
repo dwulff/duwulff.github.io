@@ -52,7 +52,7 @@ Frank Plumpton Ramsey
 <!--- also consider reading Bayes original Text --->
 
 <i>Materialien</i>
-<a href="{{site.url}}/_Goodchoices/Literature/Ramsay1926Truth&Probability_short" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/Ramsey1926Truth&Probability_short.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
 1. Wer sind Frank Plumpton Ramsey und John Maynard Keynes?
