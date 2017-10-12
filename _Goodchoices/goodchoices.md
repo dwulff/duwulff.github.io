@@ -46,7 +46,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 Frank Plumpton Ramsey
 
-### 24.10. The Beginnings - Ramsay
+### 24.10. The Beginnings - Ramsey
 
 <!--- also consider Jeremy Bentham 1798 --->
 <!--- also consider reading Bayes original Text --->
