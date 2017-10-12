@@ -24,8 +24,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer sind Blaise Pascal und Pierre de Fermat?
-2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit?
+1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Networks/Presentations/Wer sind Pa und Fer?.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit? <a href="{{site.url}}/_Networks/Presentations/Problem of Points.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 3. Was ist die Lösung problem of points?
 4. Was sind gute Entscheidungen nach Fermat und Pascal?
 
@@ -38,10 +38,10 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 
 <i>Fragen</i>
-1. Wer ist Daniel Bernoulli?
+1. Wer ist Daniel Bernoulli? <a href="{{site.url}}/_Networks/Presentations/Wer war Daniel Bernoulli.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 2. Was ist das St. Petersburg paradox?
 3. Was ist Bernoulli's Lösung?
-4. Was sind gute Entscheidungen nach Bernoulli?
+4. Was sind gute Entscheidungen nach Bernoulli? <a href="{{site.url}}/_Networks/Presentations/10_10_17_Bernoulli_Frage4.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 17.10. - Termin fällt aus -
 
