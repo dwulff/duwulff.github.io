@@ -24,8 +24,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Networks/Presentations/Wer sind Pa und Fer?.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit? <a href="{{site.url}}/_Networks/Presentations/Problem of Points.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Goodchoices/Presentations/Wer sind Pa und Fer?.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit? <a href="{{site.url}}/_Goodchoices/Presentations/Problem of Points.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 3. Was ist die Lösung problem of points?
 4. Was sind gute Entscheidungen nach Fermat und Pascal?
 
@@ -37,10 +37,10 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer ist Daniel Bernoulli? <a href="{{site.url}}/_Networks/Presentations/Wer war Daniel Bernoulli.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+1. Wer ist Daniel Bernoulli? <a href="{{site.url}}/_Goodchoices/Presentations/Wer war Daniel Bernoulli.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 2. Was ist das St. Petersburg paradox?
 3. Was ist Bernoulli's Lösung?
-4. Was sind gute Entscheidungen nach Bernoulli? <a href="{{site.url}}/_Networks/Presentations/10_10_17_Bernoulli_Frage4.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+4. Was sind gute Entscheidungen nach Bernoulli? <a href="{{site.url}}/_Goodchoices/Presentations/10_10_17_Bernoulli_Frage4.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 17.10. - Termin fällt aus -
 
@@ -69,10 +69,11 @@ Frank Plumpton Ramsey
 <a href="{{site.url}}/_Goodchoices/Literature/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer waren John von Neumann und Oskar Morgenstern?
-2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?
+1. Wer waren John von Neumann und Oskar Morgenstern? <a href="https://docs.google.com/presentation/d/1Hrd0VfUZvh-l6CHOdoAAc54k1URbK25QgGnivsGdbRw/edit?ts=59f87f2b#slide=id.g2936cfe252_0_82" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)? <a href="{{site.url}}/_Goodchoices/Presentations/31_10_17_Frage 2 v. neumann morgenstern.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 3. Was sind die Axiome und welche Rolle spielen sie?
 4. Was sind gute Entscheidungen nach van Neumann und Morgenstern?
+
 
 
 ### 07.11. Heuristics and Biases
