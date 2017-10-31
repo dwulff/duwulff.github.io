@@ -65,10 +65,10 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <a href="{{site.url}}/_Networks/Literature/ComanEtAl2016MnemonicConvergence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wie funktioniert Community/Clique detection und wozu ist das gut?
+1. Wie funktioniert Community/Clique detection und wozu ist das gut? <a href="{{site.url}}/_Networks/Presentations/Präsentation1 Frage 1 Netzwerke.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 2. Was sind die Hauptbefunde von Secara et al. und was schließen sie daraus?
-3. Was sind die Hauptbefunde von Coman et al. und was schließen sie daraus?
-4. Wie gut ergänzen sich Secara et al. und Coman et al.?
+3. Was sind die Hauptbefunde von Coman et al. und was schließen sie daraus? <a href="{{site.url}}/_Networks/Presentations/Netzwerke_in_der_Psychologie_5.Sitzung_31.10.17_Praesentation_Gruppe_3_und_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+4. Wie gut ergänzen sich Secara et al. und Coman et al.? <a href="{{site.url}}/_Networks/Presentations/Netzwerke_in_der_Psychologie_5.Sitzung_31.10.17_Praesentation_Gruppe_3_und_4.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 07.11. Psychopathology & Networks
 
