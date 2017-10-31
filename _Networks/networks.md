@@ -70,11 +70,6 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 3. Was sind die Hauptbefunde von Coman et al. und was schließen sie daraus?
 4. Wie gut ergänzen sich Secara et al. und Coman et al.?
 
-### 02.11. Recommended event
-
-<b>SWE Colloquium, 13-14h, Seminarraum 8</b>
-Jonas M. B. Haslbeck über den Nutzen von Netzwerken für u.a. die Diagnose klinischen Störungen. 
-
 ### 07.11. Psychopathology & Networks
 
 <i>Materialien</i> 
@@ -86,14 +81,16 @@ Jonas M. B. Haslbeck über den Nutzen von Netzwerken für u.a. die Diagnose klin
 3. Wie sieht das Krankheitsmodell von Borsboom & Cramer aus?
 4. Welche Konsequenzen ergeben sich aus einem netzwerkbasierten Krankheitsmodell?
 
-### 07.11. Psychopathology & Neural networks
+### 14.11. - Termin fällt aus -
+
+### 21.11. Psychopathology & Neural networks
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/Stam2014NeuroDisease&Network.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
-### 07.11. Neural networks & Efficiency
+### 28.11. Neural networks & Efficiency
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -101,9 +98,7 @@ Jonas M. B. Haslbeck über den Nutzen von Netzwerken für u.a. die Diagnose klin
 
 <i>Fragen</i> tba
 
-### 14.11. - Termin fällt aus -
-
-### 21.11. Artificial neural networks
+### 5.12. Artificial neural networks
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/BasheerHajmeer2000ANNIntro.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -112,27 +107,11 @@ Jonas M. B. Haslbeck über den Nutzen von Netzwerken für u.a. die Diagnose klin
 
 <i>Begin demo</i> Semantic networks
 
-### 28.11. Semantic Networks
+### 12.12. Semantic Networks
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Networks/Literature/Steyvers & Tenenbaum (2004) - The large-scale structure of semantic netowrks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/MoraisEtAl2013SnowBall.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-
-<i>Fragen</i> tba
-
-### 05.12. Growing semantic networks
-
-<i>Materialien</i> 
-<a href="{{site.url}}/_Networks/Literature/BarabasiAlbert1999PreferentialAttachment.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Networks/Literature/HillsEtAl2009EarlySemanticNetworks.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-
-<i>Fragen</i> tba
-
-### 12.12. Searching semantic networks
-
-<i>Materialien</i> 
-<a href="{{site.url}}/_Networks/Literature/GriffithEtAl2007GoogleAndTheMind.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Networks/Literature/AbbottEtAl2015RandomWalksOptimalForaging.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 

@@ -87,22 +87,13 @@ Frank Plumpton Ramsey
 3. Was ist Liberal Paternalism?
 4. Was sind gute Entscheidungen nach den Tversky und Kahneman, sowie Thaler und Sunstein?
 
-
-### 07.11. Bounded Rationality
-
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 07.11. tba
-
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
 ### 14.11. - Termin fällt aus -
 
-### 21.11. tba
+<i>Materialien</i> tba
+
+<i>Fragen</i> tba
+
+### 21.11. - Bounded rationality
 
 <i>Materialien</i> tba
 
