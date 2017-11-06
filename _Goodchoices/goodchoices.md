@@ -74,8 +74,6 @@ Frank Plumpton Ramsey
 3. Was sind die Axiome und welche Rolle spielen sie?
 4. Was sind gute Entscheidungen nach van Neumann und Morgenstern?
 
-
-
 ### 07.11. Heuristics and Biases
 
 <i>Materialien</i> 
@@ -94,27 +92,33 @@ Frank Plumpton Ramsey
 
 <i>Fragen</i> tba
 
-### 21.11. - Bounded rationality
+### 21.11. - Another view
 
-<i>Materialien</i> tba
+<i>Materialien</i> 
+<a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/HertwigGrüne-Yanoff2017.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i> 
 
-### 28.11. tba
+### 28.11. Less is more
 
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 05.12. tba
-
-<i>Materialien</i> tba
+<i>Materialien</i> 
+<a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
-### 12.12. tba
+### 05.12. Ecological Rationality
+
+<i>Materialien</i> 
+<a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/Simsek2013Dominance.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i> tba
+
+### 12.12. Outlook
 
 <i>Materialien</i> tba
+<a href="{{site.url}}/_Goodchoices/Literature/TucketEtAl2015UncertaintyDecisionScienceAndPolicyMaking.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> tba
 
