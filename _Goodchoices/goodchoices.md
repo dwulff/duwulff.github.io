@@ -83,7 +83,7 @@ Frank Plumpton Ramsey
 <i>Fragen</i> 
 1. Wer sind Daniel Kahneman, Amos Tversky, Richard Thaler, & Cass Sunstein?
 2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
-3. Was ist Liberal Paternalism?
+3. Was ist Libertarian Paternalism?
 4. Was sind gute Entscheidungen nach den Tversky und Kahneman, sowie Thaler und Sunstein?
 
 ### 14.11. - Termin fällt aus -
