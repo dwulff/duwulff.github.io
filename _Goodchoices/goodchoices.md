@@ -24,7 +24,7 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Goodchoices/Presentations/Wer sind Pa und Fer?.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Goodchoices/Presentations/Wer sind Pa und Fer.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit? <a href="{{site.url}}/_Goodchoices/Presentations/Problem of Points.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 3. Was ist die Lösung problem of points?
 4. Was sind gute Entscheidungen nach Fermat und Pascal?
