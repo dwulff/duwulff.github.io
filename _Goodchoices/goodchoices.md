@@ -96,7 +96,7 @@ Frank Plumpton Ramsey
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/HertwigGrüne-Yanoff2017.pdf"><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/HertwigGruene-Yanoff2017.pdf"><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> 
 1. Was ist eine Money Pump, was ein Dutch book?
