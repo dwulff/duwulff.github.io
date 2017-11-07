@@ -96,16 +96,25 @@ Frank Plumpton Ramsey
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/HertwigGrüne-Yanoff2017.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/HertwigGrüne-Yanoff2017.pdf"><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> 
+1. Was ist eine Money Pump, was ein Dutch book?
+2. Was ist Coherence, was Correspondence?
+3. Was sind gute Entscheidungen nach Arkes and colleagues?
+4. Was sind Nudges, was Boosts?
+
 
 ### 28.11. Less is more
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i> 
+1. Was sind Heuristiken, was die Adaptive Toolbox?
+2. Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
+3. Welche Heuristiken gibt es und wann funktionieren sie gut?
+4. Was sind gute Entscheidungen nach Gigerenzer & Brighton?
 
 ### 05.12. Ecological Rationality
 
