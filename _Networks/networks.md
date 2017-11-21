@@ -88,7 +88,11 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/Stam2014NeuroDisease&Network.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i> 
+1. Was bedeuten degree, scale-free distribution, hubs, modules?
+2. Wie werden Gehirn-Netzwerke gemessen?
+3. Was ist AD und welche Netzwerkeigenschaften gehen mit AD einher?
+4. Welche Gemeinsamkeiten bestehen zwischen Netzwerken verschiedener Neurologischer Erkrankungen?
 
 ### 28.11. Neural networks & Efficiency
 
