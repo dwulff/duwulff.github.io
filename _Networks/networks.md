@@ -100,7 +100,11 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <a href="{{site.url}}/_Networks/Literature/BullmoreSporns2012EconomyOfBrainOrganization.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Networks/Literature/Marteijn2013Brain&Hubs.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i>
+1. Welche Wege gibt es um <i>hubs</i> zu bestimmen?
+2. Was ist <i>allometric scaling</i> und wie kommt es zustande?
+3. Was zeichnet Hirn-Netzwerke aus?
+4. Ist das Gehirn effizient und warum?
 
 ### 5.12. Artificial neural networks
 
