@@ -9,7 +9,7 @@ My research broadly focuses on modeling human cognition. I am interested in deci
 
 One project I am currently excited about is <i>Small World of Words</i>. In this project, we attempt to measure the shared mental lexicon of several languages. If you would like participate, choose your language and follow the instructions: <a href="http://www.smallworldofwords.org/en">English</a>, <a href="http://www.smallworldofwords.org/de">Deutsch</a>, <a href="http://www.smallworldofwords.org/pt">Português</a>, <a href="http://www.smallworldofwords.org/ru">русский</a>, <a href="http://www.smallworldofwords.org/it">Italiano</a>, <a href="http://www.smallworldofwords.org/nl">Nederlands</a>, <a href="http://www.smallworldofwords.org/fr">Français</a>, <a href="http://www.smallworldofwords.org/es">Español</a>. For more information visit <a href="http://www.smallworldofwords.org/de/project">Projekt (German)</a> or <a href="http://www.smallworldofwords.org/en/project">Project (English)</a>.
 
-Find my <a href="https://dwulff.github.io/publications/">Publications</a> at <a href="https://scholar.google.de/citations?user=FUN_nHMAAAAJ&hl=de">Google Scholar</a>, or <a href="https://www.researchgate.net/profile/Dirk_Wulff">Researchgate</a>.
+Find my <a href="https://dwulff.github.io/publications/">Publications</a> at <a href="https://scholar.google.de/citations?user=FUN_nHMAAAAJ&hl=de">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Dirk_Wulff">Researchgate</a>.
 
 
 ### CV
