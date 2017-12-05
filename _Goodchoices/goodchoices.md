@@ -122,7 +122,11 @@ Frank Plumpton Ramsey
 <a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/Simsek2013Dominance.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i>
+1. Was ist wichtiger <i>cue order</i> oder <i>cue direction</i> und warum?
+2. Wie gut sind unsere Intuitionen zu <i>cue directions</i>?
+3. Was ist <i>dominance</i>, <i>cumulative dominance</i>, and <i>noncompensatoriness</i>?	
+4. Warum funktionieren Heuristiken?
 
 ### 12.12. Outlook
 
