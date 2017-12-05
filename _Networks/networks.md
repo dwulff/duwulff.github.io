@@ -111,7 +111,11 @@ Das Ziel dieses Seminar ist es einen Überblick über die Anwendung und den Nutz
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/BasheerHajmeer2000ANNIntro.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> tba
+<i>Fragen</i>
+1. Welche Aspekte biologischer Netzwerke sind in ANN implementiert und welche nicht?
+2. Wie würde man die Regression als ANN repräsentieren?
+3. Was unterscheidet das BPANN von einer Regression und wie funktioniert es?  
+4. Was ist supervised & unsupervised learning?
 
 <i>Begin demo</i> Semantic networks
 
