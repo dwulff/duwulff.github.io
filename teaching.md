@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Winter 2017
+### Autumn 2018
 
 #### <a href="{{ site.baseurl }}/Networks/" >Seminar: Netzwerke in der Psychologie</a>
 <a href="{{ site.baseurl }}/Networks/" ><img src="/images/Networks2.png" alt="Bild"/></a>
@@ -13,7 +13,7 @@ permalink: /teaching/
 <a href="{{ site.baseurl }}/Goodchoices/" ><img src="/images/Goodchoices.png" alt="Bild"/></a>
 
 
-### Summer 2017
+### Spring 2018
 
 #### <a href="{{ site.baseurl }}/Naturallanguageprocessing/" >Seminar: Natural language processing</a>
 <a href="{{ site.baseurl }}/Naturallanguage/" ><img src="/images/Emojis.png" alt="Bild"/></a>
