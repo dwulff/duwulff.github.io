@@ -30,19 +30,19 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 13.03. - No seminar -
 
-### 20.03. Twitter
+### 20.03. Books
 
 ### 27.03. Zipfian
 
 ### 03.04. Semantics
 
-### 10.04. Sentiment
+### 10.04. Twitter
 
-### 17.04. tba
+### 17.04. Sentiment
 
-### 24.04. tba
+### 24.04. Sentiment
 
-### 01.05. - No seminar -
+### 01.05. - no class -
 
 ### 08.05. Projects
 
@@ -50,6 +50,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 22.05. Presentations
 
-### 29.05. - No seminar -
+### 29.05. - no class -
 
 <!---- https://finance.yahoo.com/quote/GOOG/history?ltr=1 ---->
