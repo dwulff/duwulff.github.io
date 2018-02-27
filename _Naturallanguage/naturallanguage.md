@@ -16,6 +16,16 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 27.02. Intro
 
+<i>Assignment</i>
+<a href="/q0_naturallanguage/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+
+<i>Slides</i>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_1.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>R books</i>
+<a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/YaRrr_Book.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+
 ### 06.03. R
 
 ### 13.03. - No seminar -
