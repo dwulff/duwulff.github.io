@@ -16,5 +16,5 @@ permalink: /teaching/
 ### Spring 2018
 
 #### <a href="{{ site.baseurl }}/Naturallanguageprocessing/" >Seminar: Natural language processing</a>
-<a href="{{ site.baseurl }}/Naturallanguage/" ><img src="/images/Emojis.png" alt="Bild"/></a>
+<a href="{{ site.baseurl }}/Naturallanguageprocessing/" ><img src="/images/Emojis.png" alt="Bild"/></a>
 
