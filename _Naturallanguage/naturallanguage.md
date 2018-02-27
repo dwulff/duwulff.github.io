@@ -4,7 +4,7 @@ title: Natural language as a tool in psychological research
 permalink: /Naturallanguageprocessing/
 ---
 
-Seminar, Tuesdays, 16.15-17.45, Room 3
+Seminar with exercises, Tuesdays, 16.15-17.45, Room 3
 
 ## Seminar structure
 
