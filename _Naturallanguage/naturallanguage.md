@@ -26,19 +26,31 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="{{site.url}}/_Naturallanguage/Literature/R-intro.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Naturallanguage/Literature/YaRrr_Book.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
 
-### 06.03. R
+### 06.03. R Intro I
+
+<i>Slides</i>
+<a href="_sessions/D1S1_WhatIsR/What_is_R.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="_sessions/D1S2_Objects/Objects.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
+<a href="_sessions/D1S2_Objects/Objects_practical.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 13.03. - No seminar -
 
-### 20.03. Books
+### 20.03. R Intro II
 
-### 27.03. Zipfian
+<i>Slides</i>
+<a href="_sessions/D1S3_DataIO/Data_IO.html"><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="_sessions/D2S1_Wrangling/Wrangling.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="_sessions/D3S1_Tidying/Tidying.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-### 03.04. Semantics
+### 27.03. Books
 
-### 10.04. Twitter
+### 03.04. Zipfian
 
-### 17.04. Sentiment
+### 10.04. Semantics
+
+### 17.04. Twitter
 
 ### 24.04. Sentiment
 
