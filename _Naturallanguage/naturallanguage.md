@@ -35,17 +35,13 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 <i>Assignment</i>
 <a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/Objects_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
-
-### 13.03. - Assignment only -
-
-<i>Assignment</i>
 <a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
+### 13.03. - No class -
 
 ### 20.03. R Intro II
 
 <i>Slides</i>
-<a href="https://therbootcamp.github.io/_sessions/D2S1_Wrangling/Wrangling.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D3S1_Tidying/Tidying.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
