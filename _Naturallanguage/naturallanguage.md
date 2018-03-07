@@ -36,6 +36,8 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Assignment</i>
 <a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/Objects_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
 
 ### 13.03. - No class -
 
