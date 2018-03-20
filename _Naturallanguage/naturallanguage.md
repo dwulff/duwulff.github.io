@@ -38,14 +38,25 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
+<i>Solutions</i>
+<a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/Objects_practical_answers.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical_answers.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 13.03. - No class -
 
 ### 20.03. R Intro II
 
 <i>Slides</i>
+<a href="https://therbootcamp.github.io/_sessions/D2S0_Recap/Recap_I.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D3S1_Tidying/Tidying.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
+<a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/_sessions/D3S1_Tidying/Tidying_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+(Ignore part on NA-replacement) 
+
 
 ### 27.03. Books
 
