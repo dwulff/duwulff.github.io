@@ -54,7 +54,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Assignment</i>
 <a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="https://therbootcamp.github.io/_sessions/D3S1_Tidying/Tidying_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+<a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 <font size="1">(Ignore part on NA-replacement) </font>
 
 
