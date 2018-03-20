@@ -57,7 +57,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 <font size="1">(Ignore part on NA-replacement) </font>
 
-
 ### 27.03. Books
 
 ### 03.04. Zipfian
