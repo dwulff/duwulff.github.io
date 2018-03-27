@@ -57,7 +57,16 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 <font size="1">(Ignore part on NA-replacement) </font>
 
-### 27.03. Books
+### 27.03. Books & Ziphian
+
+
+<i>Slides</i>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_4_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments_2018/NLP_-_Assignment_1.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u3_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
+
 
 ### 03.04. Zipfian
 
