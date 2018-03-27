@@ -63,6 +63,10 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_4_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
+<i>Materials</i>
+<a href="{{site.url}}/_Naturallanguage/Literature/ZipfLaw2.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Naturallanguage/Literature/regExprTalk.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+
 <i>Assignment</i>
 <a href="{{site.url}}/_Naturallanguage/Assignments_2018/NLP_-_Assignment_1.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
 <a href="/u3_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
