@@ -43,7 +43,6 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical_answers.html" ><img src="/images/solution.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 13.03. - No class -
-
 ### 20.03. R Intro II
 
 <i>Slides</i>
@@ -63,6 +62,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 
 ### 27.03. Books & Zipfian
+
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/NLP_-_Assignment_1_2018.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_4_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
