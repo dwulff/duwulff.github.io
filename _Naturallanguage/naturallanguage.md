@@ -72,6 +72,17 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 03.04. Semantics
 
+<i>Slides</i>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_5_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Materials</i>
+<a href="{{site.url}}/_Naturallanguage/Literature/LSAtutorial.pdf" ><img src="/images/PdfIcon.png" alt="PDFIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments_2018/NLP_-_Assignment_2.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u4_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
+
+
 ### 10.04. Twitter
 
 ### 17.04. Twitter
