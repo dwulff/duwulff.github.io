@@ -39,8 +39,8 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
 <i>Solutions</i>
-<a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/Objects_practical_answers.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical_answers.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/Objects_practical_answers.html" ><img src="/images/solution.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/_sessions/D1S3_DataIO/Data_IO_practical_answers.html" ><img src="/images/solution.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 ### 13.03. - No class -
 
@@ -56,6 +56,11 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI_practical.html" ><img src="/images/AssignmentIcon_2.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="/u1_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 <font size="1">(Ignore part on NA-replacement) </font>
+
+<i>Solutions</i>
+<a href="https://therbootcamp.github.io/_sessions/D1S2_Objects/D3S1_Tidying/Tidying_practical_answers.html" ><img src="/images/solution.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/_sessions/D3S2_PlottingI/PlottingI_answers.html" ><img src="/images/solution.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
 
 ### 27.03. Books & Zipfian
 
