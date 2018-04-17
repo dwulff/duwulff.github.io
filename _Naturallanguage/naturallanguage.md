@@ -81,8 +81,7 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 <i>Solution</i>
 <a href="{{site.url}}/_Naturallanguage/Solutions/NLP_-_Assignment_2_2018.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
-
-
+	
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_5_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
@@ -95,6 +94,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 
 ### 10.04. Twitter
+
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/NLP_-_Assignment_3_2018.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
 
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_6_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
