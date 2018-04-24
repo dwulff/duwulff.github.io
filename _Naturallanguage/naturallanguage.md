@@ -111,6 +111,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 17.04. Twitter 2.0
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/NLP_-_Assignment_4_2018.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_7_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
@@ -119,6 +122,13 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 <a href="/u6_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 
 ### 24.04. Sentiment
+
+<i>Slides</i>
+<a href="{{site.url}}/_Naturallanguage/Downloads/Session_8_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
+<a href="{{site.url}}/_Naturallanguage/Assignments_2018/NLP_-_Assignment_5.pdf" ><img src="/images/AssignmentIcon_2.png" alt="AssignmentIcon" height="18"/></a>
+<a href="/u7_naturallanguage/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a><br>
 
 ### 01.05. - no class -
 
