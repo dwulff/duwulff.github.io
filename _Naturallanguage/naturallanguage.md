@@ -123,6 +123,9 @@ Seminar sessions begin with a 10 to 30 minute introductory presentation. The res
 
 ### 24.04. Sentiment
 
+<i>Solution</i>
+<a href="{{site.url}}/_Naturallanguage/Solutions/NLP_-_Assignment_5_2018.pdf" ><img src="/images/solution.png" alt="AssignmentIcon" height="18"/></a>
+
 <i>Slides</i>
 <a href="{{site.url}}/_Naturallanguage/Downloads/Session_8_2018.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
