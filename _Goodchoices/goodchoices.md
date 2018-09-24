@@ -12,100 +12,79 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ## Semesterplan
 
-### 19.09. Overview
+### 18.09. - Termin fällt aus -
+
+<!---
 <i>Materialien</i>
 <a href="/q0_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
+<a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
 
-<!--- <a href="{{site.url}}/_Goodchoices/Downloads/Session I.pdf" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a> --->
-
-### 26.09.  The Beginnings - Pascal & Fermat
+### 25.09.  The Beginnings - Pascal, Fermat, and Bernoulli
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/fermatpascal.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-
-<i>Fragen</i>
-1. Wer sind Blaise Pascal und Pierre de Fermat? <a href="{{site.url}}/_Goodchoices/Presentations/Wer sind Pa und Fer.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-2. Was ist das problem of points und warum beschäftigen sich Fermat und Pascal damit? <a href="{{site.url}}/_Goodchoices/Presentations/Problem of Points.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-3. Was ist die Lösung problem of points?
-4. Was sind gute Entscheidungen nach Fermat und Pascal?
-
-### 03.10. - Termin fällt aus -
-
-### 10.10. The Beginnings - Bernoulli
-
-<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i>
-1. Wer ist Daniel Bernoulli? <a href="{{site.url}}/_Goodchoices/Presentations/Wer war Daniel Bernoulli.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-2. Was ist das St. Petersburg paradox?
-3. Was ist Bernoulli's Lösung?
-4. Was sind gute Entscheidungen nach Bernoulli? <a href="{{site.url}}/_Goodchoices/Presentations/10_10_17_Bernoulli_Frage4.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<i>Fragen I</i>
+1. Wer sind Blaise Pascal, Pierre de Fermat, & Bernoulli? 
+2. Was sind gute Entscheidungen nach Fermat und Pascal?
+3. Was ist das St. Petersburg paradox und wie löst es Bernoulli?
+4. Was sind gute Entscheidungen nach Bernoulli? 
 
-### 17.10. - Termin fällt aus -
-
-Frank Plumpton Ramsey
-
-### 24.10. The Beginnings - Ramsey
-
-<!--- also consider Jeremy Bentham 1798 --->
-<!--- also consider reading Bayes original Text --->
+### 02.10. The Beginnings - Ramsey
 
 <i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Ramsey1926Truth&Probability_short.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
 1. Wer sind Frank Plumpton Ramsey und John Maynard Keynes?
-2. Was umfasst Ramsey's Begriff des beliefs?
+2. Was umfasst Ramsey's Begriff des <i>beliefs</i>?
 3. Was ist die logic of consistency, was die logic of truth?
 4. Was sind gute Entscheidungen nach Ramsey?
 
-### 31.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern
-
-<!--- also consider Jeremy Bentham 1798 --->
-<!--- also consider reading Bayes original Text --->
+### 09.10. The Neo-Bernoullian approach: Van Neumann & Morgenstern
 
 <i>Materialien</i> (Focus on 2-4.1)
 <a href="{{site.url}}/_Goodchoices/Literature/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer waren John von Neumann und Oskar Morgenstern? <a href="https://docs.google.com/presentation/d/1Hrd0VfUZvh-l6CHOdoAAc54k1URbK25QgGnivsGdbRw/edit?ts=59f87f2b#slide=id.g2936cfe252_0_82" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
-2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)? <a href="{{site.url}}/_Goodchoices/Presentations/31_10_17_Frage 2 v. neumann morgenstern.pptx" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+1. Wer waren John von Neumann und Oskar Morgenstern? 
+2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)? 
 3. Was sind die Axiome und welche Rolle spielen sie?
 4. Was sind gute Entscheidungen nach van Neumann und Morgenstern?
 
-### 07.11. Heuristics and Biases
+### 16.10. Open questions
+
+### 23.10. - Termin fällt aus -
+
+### 30.10. Heuristics & Biases
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/Tversky&Kahneman1973Heuristics&Biases.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/ThalerSunstein2003LibertarianPaternalism.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/McFadden1998RationalityForEconomists.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> 
-1. Wer sind Daniel Kahneman, Amos Tversky, Richard Thaler, & Cass Sunstein?
+1. Wer sind Daniel Kahneman, Amos Tversky, & Daniel McFadden?
 2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
-3. Was ist Libertarian Paternalism?
-4. Was sind gute Entscheidungen nach Tversky und Kahneman, bzw. Thaler und Sunstein?
+3. Welche Konsequenzen haben Biases für ökonomische Theorie?
+4. Was sind gute Entscheidungen nach Tversky, Kahneman, & McFadden?
 
-### 14.11. - Termin fällt aus -
+<!--- also consider Jeremy Bentham 1798 --->
+<!--- also consider reading Bayes original Text --->
 
-<i>Materialien</i> tba
-
-<i>Fragen</i> tba
-
-### 21.11. - Another view
+### 06.11. Another view
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
-<a href="{{site.url}}/_Goodchoices/Literature/HertwigGruene-Yanoff2017.pdf"><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/JacksonBargetta1975DutchBook.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i> 
-1. Was ist eine Money Pump, was ein Dutch book?
+1. Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?
 2. Was ist Coherence, was Correspondence?
 3. Was sind gute Entscheidungen nach Arkes and colleagues?
-4. Was sind Nudges, was Boosts?
 
 
-### 28.11. Less is more
+### 13.11. Less is more
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -116,7 +95,11 @@ Frank Plumpton Ramsey
 3. Welche Heuristiken gibt es und wann funktionieren sie gut?
 4. Was sind gute Entscheidungen nach Gigerenzer & Brighton?
 
-### 05.12. Ecological Rationality
+### 20.11. - Termin fällt aus -
+
+### 27.11. Open questions
+
+### 04.12. Ecological Rationality
 
 <i>Materialien</i> 
 <a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
@@ -128,14 +111,23 @@ Frank Plumpton Ramsey
 3. Was ist <i>dominance</i>, <i>cumulative dominance</i>, and <i>noncompensatoriness</i>?	
 4. Warum funktionieren Heuristiken?
 
-### 12.12. Outlook
 
-<i>Materialien</i> tba
+### 11.12. Nudges & Boosts
+
+<a href="{{site.url}}/_Goodchoices/Literature/HertwigGruene-Yanoff2017.pdf"><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Goodchoices/Literature/ThalerSunstein2003LibertarianPaternalism.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Fragen</i>
+1. Wer sind Thaler & Sunstein?
+2. Was sind Nudges, was Boosts?
+3. Was sind Vor und Nachteile von Nudges?
+3. Was sind Vor und Nachteile von Boosts?
+
+<!--- <i>Materialien</i> tba
 <a href="{{site.url}}/_Goodchoices/Literature/TucketEtAl2015UncertaintyDecisionScienceAndPolicyMaking.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+--->
 
-<i>Fragen</i> tba
-
-### 19.12. Klausur
+### 18.12. Klausur
 
 <!---
 
