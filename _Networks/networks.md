@@ -38,12 +38,24 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 <a href="https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Assignment</i>
+<a href="{{site.url}}/_Networks/Downloads/watts_strogatz.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Upload</i>
+<a href="/u2_networks/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+
+### 09.10. Networks in R
+
+
+<i>Materialien</i>
+<a href="https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/IntroToR/IntroToR.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+<i>Assignment</i>
 <a href="https://therbootcamp.github.io/BaselRBootcamp_2018July/_sessions/Objects/Objects_practical.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Upload</i>
-<a href="/u1_networks/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
+<a href="/u2_networks/" ><img src="/images/UploadIcon.png" alt="UploadIcon" height="18"/></a>
 
-### 09.10. Networks in R
 
 <!---
 <i>Materialien</i>
