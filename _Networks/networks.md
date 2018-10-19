@@ -93,6 +93,11 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 ### 30.10. Social networks
 
+<i>Materialien</i>
+<a href="{{site.url}}/_Networks/Literature/Milgram1967SmallWorldProblem.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+<a href="{{site.url}}/_Networks/Literature/DoddsEtAl2003SmallWorldByEmail.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
+
+
 <!---
 <i>Materialien</i>
 <a href="{{site.url}}/_Networks/Literature/SecaraEtAl2016SocialNetworkStructure.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
