@@ -67,7 +67,7 @@ Das Ziel dieses Seminars mit Übungen ist es die Grundlagen der Netzwerkanalyse 
 
 ### 16.10. Back to Watts & Strogatz
 
-<i>Assignment</i>
+<i>Assignment & Solution</i>
 <a href="{{site.url}}/_Networks/Downloads/watts_strogatz_pt2.html" ><img src="/images/GoogleSlides.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Upload</i>
