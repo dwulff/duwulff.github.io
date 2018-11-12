@@ -26,10 +26,10 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/Bernoulli_1954_Exposition of a new theory on the measurement of risk.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen I</i>
-1. Wer sind Blaise Pascal, Pierre de Fermat, & Bernoulli? 
+1. Wer sind Blaise Pascal, Pierre de Fermat, & Bernoulli?
 2. Was sind gute Entscheidungen nach Fermat und Pascal?
 3. Was ist das St. Petersburg paradox und wie löst es Bernoulli?
-4. Was sind gute Entscheidungen nach Bernoulli? 
+4. Was sind gute Entscheidungen nach Bernoulli?
 
 ### 02.10. The Beginnings - Ramsey
 
@@ -48,8 +48,8 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 <a href="{{site.url}}/_Goodchoices/Literature/Von NeumannMorgenstern1944TheoryOfGamesAndEconomicBehaviour1-4.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
-1. Wer waren John von Neumann und Oskar Morgenstern? 
-2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)? 
+1. Wer waren John von Neumann und Oskar Morgenstern?
+2. Was verstehen van Neumann und Morgenstern unter utility, was unter preference (systems)?
 3. Was sind die Axiome und welche Rolle spielen sie?
 4. Was sind gute Entscheidungen nach van Neumann und Morgenstern?
 
@@ -59,11 +59,11 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 30.10. Heuristics & Biases
 
-<i>Materialien</i> 
+<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/Tversky&Kahneman1973Heuristics&Biases.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/McFadden1998RationalityForEconomists.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> 
+<i>Fragen</i>
 1. Wer sind Daniel Kahneman, Amos Tversky, & Daniel McFadden?
 2. Was sind Heuristiken, was Biases, und wie hängen Sie zusammen?
 3. Welche Konsequenzen haben Biases für ökonomische Theorie?
@@ -74,11 +74,11 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 06.11. Another view
 
-<i>Materialien</i> 
+<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/ArkesEtal2016HowBadIsIncoherence.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/JacksonBargetta1975DutchBook.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> 
+<i>Fragen</i>
 1. Was ist eine Money Pump, was ein Dutch book, warum verliert man sicher Geld?
 2. Was ist Coherence, was Correspondence?
 3. Was sind gute Entscheidungen nach Arkes and colleagues?
@@ -86,10 +86,10 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 13.11. Less is more
 
-<i>Materialien</i> 
+<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/GigerenzerBrighton2009HomoHeuristicus.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
-<i>Fragen</i> 
+<i>Fragen</i>
 1. Was sind Heuristiken, was die Adaptive Toolbox?
 2. Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
 3. Welche Heuristiken gibt es und wann funktionieren sie gut?
@@ -101,14 +101,14 @@ Der Frage "Was sind gute Entscheidungen?" nachgehend, beschäftigt sich dieses S
 
 ### 04.12. Ecological Rationality
 
-<i>Materialien</i> 
+<i>Materialien</i>
 <a href="{{site.url}}/_Goodchoices/Literature/KatsikopoulosEtAl2010TheRobustBeauty.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 <a href="{{site.url}}/_Goodchoices/Literature/Simsek2013Dominance.pdf" ><img src="/images/PDFIcon.png" alt="GoogleIcon" height="18" width = "17"/></a>
 
 <i>Fragen</i>
 1. Was ist wichtiger <i>cue order</i> oder <i>cue direction</i> und warum?
 2. Wie gut sind unsere Intuitionen zu <i>cue directions</i>?
-3. Was ist <i>dominance</i>, <i>cumulative dominance</i>, and <i>noncompensatoriness</i>?	
+3. Was ist <i>dominance</i>, <i>cumulative dominance</i>, and <i>noncompensatoriness</i>?
 4. Warum funktionieren Heuristiken?
 
 
@@ -187,8 +187,8 @@ Gigerenzer Topics
 <a href="/q7_goodchoices/" ><img src="/images/GoogleForms.png" alt="GoogleIcon" height="18"/></a>
 <a href="/r7_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
-Simsek 
-Katsikopoulos et al 
+Simsek
+Katsikopoulos et al
 
 ### 06.12. Heuristics and Finance
 
@@ -210,7 +210,7 @@ Dog and Frisbee
 <a href="/r9_goodchoices/" ><img src="/images/GoogleDocs.png" alt="GoogleIcon" height="18"/></a>
 
 JennyOnDepression
-Marewski 
+Marewski
 
 ### 20.12. Open questions
 
